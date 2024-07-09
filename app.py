@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 import html5lib
 import pandas as pd
+import datetime
+import os
+import sys
+
 
 
 def main():
@@ -60,7 +64,13 @@ def main():
     # print(column_names)
 
     df = pd.DataFrame(table_data, columns = column_names)
-    df.to_csv('home_data.csv')
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+    current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
+    print(current_dir)
+    current_path = r"{current_dir}\home_data\meta_load_dt={current_timestamp}".format(current_dir=current_dir,current_timestamp=current_timestamp)
+    if not os.path.exists(current_path):
+        os.makedirs(current_path)
+    df.to_csv(r'home_data\meta_load_dt={current_timestamp}/home_data.csv'.format(current_timestamp=current_timestamp))
 
 
 
