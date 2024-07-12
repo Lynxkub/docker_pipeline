@@ -8,22 +8,20 @@ import sys
 import boto3
 import yaml
 from io import StringIO
-
+from airflow.models import Variable
+import s3fs
 
 
 def main():
     headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"} 
 
-    curr_dir = os.getcwd()
-    print('**************')
-    print(curr_dir)
-    with open('opt/airflow/python_logic/credentials.yaml', 'r') as f:
-        doc = yaml.load(f)
+    access_key = Variable.get('aws_access_key')
+    secret_access_key = Variable.get('aws_secret_access_key')
 
-    access_key = doc['s3']['access_key']
-    secret_access_key = doc['s3']['secret_access_key']
+
+
     bucket = 'housing-data-docker'
-    session = boto3.Session(aws_access_key_id = access_key, aws_secret_access_key = secret_access_key, bucket = bucket)
+    session = boto3.Session(aws_access_key_id = access_key, aws_secret_access_key = secret_access_key)
     s3 = session.resource('s3')
     home_dir = {}
     zipcodes = ['53151', '53110', '53220', '53209']
@@ -72,31 +70,17 @@ def main():
             row_data.append(v)
         table_data.append(row_data)
 
-    # print(table_data)
-    # print(column_names)
+
     df = pd.DataFrame(table_data, columns = column_names)
     current_timestamp = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-    # csv_buffer = StringIO()
-    # df.to_csv(csv_buffer)
 
-    # s3.Object(bucket, f'home_data/meta_load_dt={current_timestamp}/home_data.csv').put(Body=csv_buffer.getvalue())
+ 
 
-    df.to_csv(f's3://housing-data-docker/redfin-data/meta_load_dt={current_timestamp}/home_data.csv')
+    df.to_csv(f's3://housing-data-docker/redfin-data/meta_load_dt={current_timestamp}/home_data.csv', storage_options = {
+        "key": access_key,
+        "secret": secret_access_key
+    })
 
-
-
-
-
-    # current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
-    # parent_path = os.chdir('..')
-    # print("***********************")
-    # print(current_dir)
-    # print(parent_path)
-    # current_path = r"opt/airflow/{current_dir}/home_data/meta_load_dt={current_timestamp}".format(current_dir=current_dir,current_timestamp=current_timestamp)
-    # if not os.path.exists(current_path):
-    #     os.makedirs(current_path)
-    # # df.to_csv(r'opt/airflow/home_data/meta_load_dt={current_timestamp}/home_data.csv'.format(current_timestamp=current_timestamp))
-    # df.to_csv(r'opt/airflow/home_data/home_data.csv')
 
 
 
