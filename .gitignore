@@ -1,1 +1,4 @@
 realestate_venv
+logs/
+credentials.yaml
+secret_retrieval.py
