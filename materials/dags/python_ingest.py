@@ -24,14 +24,19 @@ with DAG(
     dag_id = 'ingestion',
     description = 'Ingest housing data from Redfin.com',
     start_date = datetime(2024,7,10),
-    schedule_interval='@hourly',
+    schedule_interval='@daily',
     catchup=False
 ) as dag:
 
-    task1 = BashOperator(
-        task_id='data_ingest',
-        bash_command=f'python {dag_path}/python_logic/app.py',
+    raw_ingest = BashOperator(
+        task_id='raw_ingest',
+        bash_command=f'python {dag_path}/python_logic/raw_ingest.py',
         
     )
 
-    task1
+    curated_layer = BashOperator(
+        task_id='curated_layer',
+        bash_command=f'python {dag_path}/python_logic/curated.py'
+    )
+
+    raw_ingest >> curated_layer
