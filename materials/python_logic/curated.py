@@ -12,7 +12,7 @@ def main():
 
     if first_load_flag == 'True':
         try:
-            df_raw = pd.read_csv(f's3://housing-data-docker/redfin-data/raw_data/meta_load_dt={meta_load_dt}/home_data.csv',  storage_options = {
+            df_raw = pd.read_parquet(f's3://housing-data-docker/redfin-data/raw_data/meta_load_dt={meta_load_dt}/home_data.parquet',  storage_options = {
             "key": access_key,
             "secret": secret_access_key
             })
@@ -25,16 +25,17 @@ def main():
         df_raw['meta_load_dt'] = meta_load_dt
 
 
-        df_raw.to_csv(f's3://housing-data-docker/redfin-data/curated/meta_load_dt={meta_load_dt}/curated_home_data.csv', storage_options = {
+        df_raw.to_csv(f's3://housing-data-docker/redfin-data/curated/meta_load_dt={meta_load_dt}/curated_home_data.parquet', storage_options = {
         "key": access_key,
         "secret": secret_access_key
     })
-        
+        Variable.set('first_load_flag' , 'False')
     
 
     else:
+        prev_meta_load_dt = Variable.get('prev_meta_load_dt')
         try:
-            df_raw = pd.read_csv(f's3://housing-data-docker/redfin-data/raw_data/meta_load_dt={meta_load_dt}/home_data.csv',  storage_options = {
+            df_raw = pd.read_parquet(f's3://housing-data-docker/redfin-data/raw_data/meta_load_dt={meta_load_dt}/home_data.parquet',  storage_options = {
             "key": access_key,
             "secret": secret_access_key
             })
@@ -43,12 +44,17 @@ def main():
             print(e)
 
         try:
-            df_curated_previous = pd.read_csv(f's3://housing-data-docker/redfin-data/curated/meta_load_dt={meta_load_dt}/home_data.csv', storage_options = {
+            df_curated_previous = pd.read_parquet(f's3://housing-data-docker/redfin-data/curated/meta_load_dt={prev_meta_load_dt}/home_data.parquet', storage_options = {
                 "key": access_key,
                 "secret" : secret_access_key
             })
         except FileNotFoundError as e:
             print(e)
+
+        new_records_df = ''
+        deletes_df = ''
+        updates_df = ''
+        unchanged_df = ''
 
 
 

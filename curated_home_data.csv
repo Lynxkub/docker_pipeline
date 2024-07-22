@@ -1,0 +1,491 @@
+,Unnamed: 0,city,price,beds,baths,sqft,url,address,active_flag,delete_flag,meta_load_dt
+0,0,South Milwaukee,"$239,900",3 beds,1 bath,"1,509 ",https://www.redfin.com/WI/South-Milwaukee/309-Montana-Ave-53172/home/90303707,"309 Montana Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+1,1,South Milwaukee,"$274,900",3 beds,2 baths,"1,791 ",https://www.redfin.com/WI/South-Milwaukee/211-Nicholson-Ave-53172/home/58024472,"211 Nicholson Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+2,2,South Milwaukee,"$375,000",3 beds,1.5 baths,"1,520 ",https://www.redfin.com/WI/South-Milwaukee/1833-Mackinac-Ave-53172/home/79079585,"1833 Mackinac Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+3,3,South Milwaukee,"$320,000",4 beds,2.5 baths,"2,035 ",https://www.redfin.com/WI/South-Milwaukee/721-Oak-St-53172/home/57752586,"721 Oak St, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+4,4,South Milwaukee,"$250,000",4 beds,2 baths,"2,218 ",https://www.redfin.com/WI/South-Milwaukee/2609-5th-Ave-53172/home/90303118,"2609 5th Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+5,5,South Milwaukee,"$319,900",4 beds,2 baths,"2,453 ",https://www.redfin.com/WI/South-Milwaukee/1010-N-Chicago-Ave-53172/home/57748545,"1010 N Chicago Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+6,6,South Milwaukee,"$439,900",3 beds,2.5 baths,"1,864 ",https://www.redfin.com/WI/South-Milwaukee/Lt1-Monroe-Ave-53172/home/189093442,"Lt1 Monroe Ct, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+7,7,South Milwaukee,"$300,000",No Data Available,No Data Available,16.74 ,https://www.redfin.com/WI/South-Milwaukee/1200-13th-Ave-53172/home/190732919,"1200 13th Ave, South Milwaukee, WI 53172",1,0,2024-07-19-17-01-40
+8,8,Oak Creek,"$529,900",3 beds,2.5 baths,"2,025 ",https://www.redfin.com/WI/Oak-Creek/3330-E-Stonefield-Dr-53154/home/90297368,"3330 E Stonefield Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+9,9,Cudahy,"$239,900",3 beds,1.5 baths,"1,111 ",https://www.redfin.com/WI/Cudahy/5979-S-Indiana-Ave-53110/home/90283104,"5979 S Indiana Ave, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+10,10,Cudahy,"$205,000",2 beds,1 bath,"1,250 ",https://www.redfin.com/WI/Cudahy/3360-E-College-Ave-53110/unit-2/home/80170608,"3360 E College Ave #2, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+11,11,Oak Creek,"$369,900",3 beds,1.5 baths,"1,553 ",https://www.redfin.com/WI/Oak-Creek/2200-E-Hickory-Dr-53154/home/58001444,"2200 E Hickory Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+12,12,Oak Creek,"$349,900",2 beds,2 baths,"1,102 ",https://www.redfin.com/WI/Oak-Creek/7115-S-Pennsylvania-Ave-53154/home/90320840,"7115 S Pennsylvania Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+13,13,Cudahy,"$227,999",2 beds,2 baths,"1,240 ",https://www.redfin.com/WI/Cudahy/6228-S-Creekside-Dr-53110/unit-9/home/90282798,"6228 S Creekside Dr #9, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+14,14,Cudahy,"$247,500",2 beds,2 baths,"1,440 ",https://www.redfin.com/WI/Cudahy/6010-S-Crosswinds-Dr-53110/unit-5/home/58043273,"6010 S Crosswinds Dr #5, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+15,15,Oak Creek,"$169,900",No Data Available,No Data Available,0.59 ,https://www.redfin.com/WI/Oak-Creek/8535-S-Amanda-Ct-53154/home/58099724,"8535 S Amanda Ct, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+16,16,Oak Creek,"$244,000",2 beds,2 baths,"1,268 ",https://www.redfin.com/WI/Oak-Creek/3651-E-Barbara-Ct-53154/unit-3/home/58033978,"3651 E Barbara Ct #3, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+17,17,Oak Creek,"$215,000",No Data Available,No Data Available,1.54 ,https://www.redfin.com/WI/Oak-Creek/7041-S-Pennsylvania-Ave-53154/home/58085129,"7041 S Pennsylvania Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+18,18,Oak Creek,"$200,000",No Data Available,No Data Available,2.42 ,https://www.redfin.com/WI/Oak-Creek/8465-S-5th-Ave-53154/home/90330459,"8465 S 5th Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+19,19,Cudahy,"$500,000",No Data Available,No Data Available,5.66 ,https://www.redfin.com/WI/Cudahy/6040-S-Buckhorn-Ave-53110/unit-6060/home/183841572,"6040 S Buckhorn Ave #6060, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+20,20,Oak Creek,"$499,500",No Data Available,No Data Available,13.69 ,https://www.redfin.com/WI/Oak-Creek/7300-S-Delaine-Dr-53154/home/190244206,"7300 S Delaine Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+21,21,Oak Creek,"$59,900",1 bed,1 bath,768 ,https://www.redfin.com/WI/Oak-Creek/8481-S-5th-Avenue-Site-53154/unit-A-01/home/190430574,"8481 S 5th Avenue Site Unit A-01, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+22,22,East Troy,"$450,000",3 beds,2 baths,"2,092 ",https://www.redfin.com/WI/East-Troy/N9168-Ravine-Dr-53120/home/89488561,"N9168 Ravine Dr, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+23,23,East Troy,"$439,900",3 beds,1.5 baths,"1,800 ",https://www.redfin.com/WI/East-Troy/N9531-Sunset-Dr-53120/home/89477828,"N9531 Sunset Dr, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+24,24,East Troy,"$379,900",3 beds,1 bath,"1,135 ",https://www.redfin.com/WI/East-Troy/N9198-Ravine-Dr-53120/home/89488568,"N9198 Ravine Dr, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+25,25,East Troy,"$1,072,000",4 beds,3.5 baths,"3,302 ",https://www.redfin.com/WI/East-Troy/W1069-Spleas-Skoney-Rd-53120/home/57849238,"W1069 Spleas Skoney Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+26,26,East Troy,"$549,900",5 beds,3 baths,"2,800 ",https://www.redfin.com/WI/East-Troy/n8346-Zimmerman-Rd-53120/home/191430112,"N8346 Zimmerman Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+27,27,East Troy,"$599,900",3 beds,1 bath,"1,850 ",https://www.redfin.com/WI/East-Troy/W4072-County-Road-J-53120/home/191067546,"W4072 County Road J, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+28,28,East Troy,"$329,000",3 beds,1.5 baths,"1,413 ",https://www.redfin.com/WI/East-Troy/W498-County-Road-L-53120/home/89487850,"W498 County Road L, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+29,29,East Troy,"$729,900",3 beds,2.5 baths,"2,256 ",https://www.redfin.com/WI/East-Troy/W2481-Leasure-Way-53120/home/89507726,"W2481 Leasure Way, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+30,30,East Troy,"$566,900",3 beds,2.5 baths,"2,200 ",https://www.redfin.com/WI/East-Troy/2686-Red-Oak-Ln-53120/home/183162311,"2686 Red Oak Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+31,31,East Troy,"$523,900",4 beds,2.5 baths,"2,062 ",https://www.redfin.com/WI/East-Troy/2704-Red-Oak-Ln-53120/home/89507069,"2704 Red Oak Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+32,32,East Troy,"$564,900",4 beds,2.5 baths,"2,018 ",https://www.redfin.com/WI/East-Troy/2684-Mapleton-Ave-53120/home/89507055,"2684 Mapleton Ave, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+33,33,East Troy,"$491,900",3 beds,2 baths,"1,670 ",https://www.redfin.com/WI/East-Troy/2710-Red-Oak-Ln-53120/home/89507068,"2710 Red Oak Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+34,34,East Troy,"$492,900",3 beds,2 baths,"1,654 ",https://www.redfin.com/WI/East-Troy/2698-Red-Oak-Ln-53120/home/89507064,"2698 Red Oak Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+35,35,East Troy,"$534,900",5 beds,3 baths,"2,034 ",https://www.redfin.com/WI/East-Troy/2695-Mapleton-Ave-53120/home/191016210,"2695 Mapleton Ave, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+36,36,East Troy,"$513,900",3 beds,2 baths,"1,670 ",https://www.redfin.com/WI/East-Troy/2690-Mapleton-Ave-53120/home/191007075,"2690 Mapleton Ave, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+37,37,East Troy,"$725,000",4 beds,3 baths,"2,753 ",https://www.redfin.com/WI/East-Troy/W2359-Troy-Hill-Ln-53120/home/89507696,"W2359 Troy Hill Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+38,38,East Troy,"$1,795,000",5 beds,4.5 baths,"6,307 ",https://www.redfin.com/WI/East-Troy/N8115-Pleasant-Lake-Rd-53120/home/89511759,"N8115 Pleasant Lake Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+39,39,East Troy,"$989,000",3 beds,2.5 baths,"2,328 ",https://www.redfin.com/WI/East-Troy/N8630-Booth-Lake-Heights-Rd-53120/home/57840754,"N8630 Booth Lake Heights Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+40,40,East Troy,"$739,900",2 beds,2 baths,"1,676 ",https://www.redfin.com/WI/East-Troy/W858-Shorewood-Dr-53120/home/89488059,"W858 Shorewood Dr, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+41,41,East Troy,"$1,900,000",3 beds,3.5 baths,"4,520 ",https://www.redfin.com/WI/East-Troy/N9198-E-Shore-Rd-53120/home/57818368,"N9198 East Shore Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+42,42,East Troy,"$527,190",5 beds,2 baths,"2,200 ",https://www.redfin.com/WI/East-Troy/Lt24-Mapleton-Ave-53120/home/175144484,"Lt24 Mapleton Ave, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+43,43,Office East Troy,Unknown,No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Office-East-Troy/Office-East-Troy/Homes-Available-Soon/home/190388914,"Homes Available Soon Plan, Office East Troy, WI 53120",1,0,2024-07-19-17-01-40
+44,44,East Troy,"$108,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/East-Troy/Lt-56-Oakmont-Dr-53120/home/175630393,"Lt56 Oakmont Dr, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+45,45,Troy,"$599,900",No Data Available,No Data Available,45.00 ,https://www.redfin.com/WI/Troy/Lt1-Scout-Rd-53120/home/191421902,"Lt1 Scout Rd, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+46,46,Mukwonago,"$271,900",No Data Available,No Data Available,5.32 ,https://www.redfin.com/WI/Mukwonago/Lt1-County-Road-J-Unknown/home/185314660,"Lt1 County Road J, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+47,47,East Troy,"$549,900",No Data Available,No Data Available,7.33 ,https://www.redfin.com/WI/East-Troy/Lt3-New-Deal-Ave-53120/home/146383703,"Lt3 New Deal Ave, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+48,48,East Troy,"$77,990",No Data Available,No Data Available,1.03 ,https://www.redfin.com/WI/East-Troy/Lt48-Troy-Hill-Ln-53120/home/171545226,"Lt48 Troy Hill Ln, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+49,49,East Troy,"$224,900",No Data Available,No Data Available,1.14 ,https://www.redfin.com/WI/East-Troy/Lts11-15-Beech-Dr-53120/home/190909914,"Lts11-15 Wilmer Grove Beach St, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+50,50,East Troy,"$274,900",No Data Available,No Data Available,6.60 ,https://www.redfin.com/WI/East-Troy/Lt5-County-Road-J-Unknown/home/190657156,"Lt5 County Road J, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+51,51,East Troy,"$335,000",No Data Available,No Data Available,5.00 ,https://www.redfin.com/WI/East-Troy/Lt34-County-Highway-J-Unknown/home/172025095,"Lt34 County Road J, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+52,52,East Troy,"$90,000",No Data Available,No Data Available,0.77 ,https://www.redfin.com/WI/East-Troy/Lt3-County-Highway-ES-Unknown/home/172024861,"Lt3 Main St, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+53,53,East Troy,"$76,900",No Data Available,No Data Available,1.01 ,https://www.redfin.com/WI/East-Troy/Lt13-Troy-Hill-Ln-53120/home/171545285,"Lt13 Troy Hill Ct, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+54,54,East Troy,"$82,900",No Data Available,No Data Available,0.99 ,https://www.redfin.com/WI/East-Troy/Lt27-Troy-Hill-Ln-53120/home/171950343,"Lt27 Leasure Ct, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+55,55,East Troy,"$76,900",No Data Available,No Data Available,1.05 ,https://www.redfin.com/WI/East-Troy/Lt12-Townline-Rd-53120/home/173303502,"Lt12 Troy Hill Ct, East Troy, WI 53120",1,0,2024-07-19-17-01-40
+56,56,Milwaukee,"$350,000",2 beds,2 baths,"1,150 ",https://www.redfin.com/WI/Milwaukee/1515-N-Van-Buren-St-53202/unit-201/home/90382557,"1515 N Van Buren St #201, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+57,57,Milwaukee,"$329,900",1 bed,1 bath,909 ,https://www.redfin.com/WI/Milwaukee/102-N-Water-St-53202/unit-212/home/58028356,"102 N Water St #212, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+58,58,Milwaukee,"$579,000",No Data Available,No Data Available,"3,660 ",https://www.redfin.com/WI/Milwaukee/1726-N-Arlington-Pl-53202/home/90319227,"1726 N Arlington Pl, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+59,59,Milwaukee,"$475,000",2 beds,2 baths,"1,140 ",https://www.redfin.com/WI/Milwaukee/102-N-Water-St-53202/unit-605/home/58023668,"102 N Water St #605, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+60,60,Milwaukee,"$825,000",2 beds,2 baths,"1,939 ",https://www.redfin.com/WI/Milwaukee/1313-N-Franklin-Pl-53202/unit-1003/home/191582692,"1313 N Franklin Pl #1003, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+61,61,Milwaukee,"$419,900",2 beds,2 baths,"1,439 ",https://www.redfin.com/WI/Milwaukee/1550-E-Royall-Pl-53202/unit-409/home/191540722,"1550 E Royall Pl #409, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+62,62,Milwaukee,"$199,900",1 bed,1 bath,763 ,https://www.redfin.com/WI/Milwaukee/234-N-Broadway-53202/unit-514/home/90382620,"234 N Broadway #514, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+63,63,Milwaukee,"$229,900",1 bed,1 bath,830 ,https://www.redfin.com/WI/Milwaukee/1541-N-Jefferson-St-53202/unit-204/home/58024438,"1541 N Jefferson St #204, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+64,64,Milwaukee,"$749,900",2 beds,2 baths,"1,413 ",https://www.redfin.com/WI/Milwaukee/541-E-Erie-St-53202/unit-408/home/90323985,"541 E Erie St #408, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+65,65,Milwaukee,"$197,000",1 bed,1 bath,756 ,https://www.redfin.com/WI/Milwaukee/234-N-Broadway-53202/unit-418/home/90382625,"234 N Broadway #418, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+66,66,Milwaukee,"$439,900",2 beds,2 baths,"1,242 ",https://www.redfin.com/WI/Milwaukee/1300-N-Prospect-Ave-53202/unit-216/home/58027221,"1300 N Prospect Ave #216, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+67,67,Milwaukee,"$249,900",2 beds,2 baths,975 ,https://www.redfin.com/WI/Milwaukee/1108-N-Milwaukee-St-53202/unit-224/home/58027540,"1108 N Milwaukee St #224, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+68,68,Milwaukee,"$225,000",2 beds,1 bath,972 ,https://www.redfin.com/WI/Milwaukee/1983-N-Summit-Ave-53202/unit-10/home/190842022,"1983 N Summit Ave #10, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+69,69,Milwaukee,"$275,000",2 beds,1.5 baths,980 ,https://www.redfin.com/WI/Milwaukee/270-E-Highland-Ave-53202/unit-642/home/90323715,"270 E Highland Ave #642, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+70,70,Milwaukee,"$954,900",2 beds,2 baths,"2,008 ",https://www.redfin.com/WI/Milwaukee/1313-N-Franklin-Pl-53202/unit-304/home/58042287,"1313 N Franklin Pl #304, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+71,71,Milwaukee,"$155,000",0 beds,1 bath,460 ,https://www.redfin.com/WI/Milwaukee/1028-E-Juneau-Ave-53202/unit-202/home/191522139,"1028 E Juneau Ave #202, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+72,72,Milwaukee,"$479,900",1 bed,2 baths,"1,206 ",https://www.redfin.com/WI/Milwaukee/777-N-Prospect-Ave-53202/unit-NP7-707/home/191468773,"777 N Prospect Ave Unit NP7, 707, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+73,73,Milwaukee,"$149,000",0 beds,1 bath,460 ,https://www.redfin.com/WI/Milwaukee/1028-E-Juneau-Ave-53202/unit-327/home/59759473,"1028 E Juneau Ave #327, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+74,74,Milwaukee,"$429,900",3 beds,2 baths,"1,634 ",https://www.redfin.com/WI/Milwaukee/1450-N-Franklin-Pl-53202/home/57969644,"1450 N Franklin Pl, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+75,75,Milwaukee,"$450,000",3 beds,2 baths,"1,332 ",https://www.redfin.com/WI/Milwaukee/1919-N-Summit-Ave-53202/unit-4E/home/58021661,"1919 N Summit Ave Unit 4E, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+76,76,Milwaukee,"$329,900",1 bed,1 bath,"1,546 ",https://www.redfin.com/WI/Milwaukee/601-E-Ogden-Ave-53202/unit-804/home/58021477,"601 E Ogden St #804, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+77,77,Milwaukee,"$219,900",1 bed,1 bath,907 ,https://www.redfin.com/WI/Milwaukee/270-E-Highland-Ave-53202/unit-915/home/58020396,"270 E Highland Ave #915, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+78,78,Milwaukee,"$645,000",2 beds,2 baths,"1,826 ",https://www.redfin.com/WI/Milwaukee/1522-N-Prospect-Ave-53202/unit-1203/home/191306517,"1522 N Prospect Ave #1203, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+79,79,Milwaukee,"$129,900",0 beds,1 bath,325 ,https://www.redfin.com/WI/Milwaukee/1028-E-Juneau-Ave-53202/unit-812/home/191295697,"1028 E Juneau Ave #812, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+80,80,Milwaukee,"$1,449,000",3 beds,4 baths,"3,558 ",https://www.redfin.com/WI/Milwaukee/785-E-Kilbourn-Ave-53202/home/185277299,"785 E Kilbourn Ave, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+81,81,Milwaukee,"$875,000",2 beds,2.5 baths,"2,053 ",https://www.redfin.com/WI/Milwaukee/311-E-Erie-St-53202/unit-305/home/90253596,"311 E Erie St #305, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+82,82,Milwaukee,"$1,550,000",2 beds,3 baths,"2,698 ",https://www.redfin.com/WI/Milwaukee/1313-N-Franklin-Pl-53202/unit-1604/home/58042299,"1313 N Franklin Pl #1604, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+83,83,Milwaukee,"$800,000",2 beds,2 baths,"1,773 ",https://www.redfin.com/WI/Milwaukee/1300-N-Prospect-Ave-53202/unit-208/home/58033465,"1300 N Prospect Ave #208, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+84,84,Milwaukee,"$799,900",2 beds,2 baths,"1,770 ",https://www.redfin.com/WI/Milwaukee/777-N-Prospect-Ave-53202/unit-South-Tier-4/home/103942443,"777 N Prospect Ave Unit South Tier 4, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+85,85,Milwaukee,"$155,000",1 bed,1 bath,561 ,https://www.redfin.com/WI/Milwaukee/904-E-Pearson-St-53202/unit-323/home/58047717,"904 E Pearson St #323, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+86,86,Milwaukee,"$245,000",1 bed,1 bath,765 ,https://www.redfin.com/WI/Milwaukee/1541-N-Jefferson-St-53202/unit-208/home/58029092,"1541 N Jefferson St #208, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+87,87,Milwaukee,"$499,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/1717-N-Astor-St-53202/unit-1719/home/185294791,"1717 N Astor St #1719, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+88,88,Milwaukee,"$399,000",4 beds,3 baths,"2,362 ",https://www.redfin.com/WI/Milwaukee/1715-N-Astor-St-53202/unit-1715A/home/190924360,"1715 N Astor St Unit 1715A, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+89,89,Milwaukee,"$415,000",2 beds,2 baths,"1,328 ",https://www.redfin.com/WI/Milwaukee/1830-E-Kane-Pl-53202/unit-8/home/90365205,"1830 E Kane Pl #8, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+90,90,Milwaukee,"$1,875,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/1245-N-Milwaukee-St-53202/home/190870240,"1245 N Milwaukee St, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+91,91,Milwaukee,"$219,900",1 bed,1 bath,887 ,https://www.redfin.com/WI/Milwaukee/1633-N-Prospect-Ave-53202/unit-4E/home/90227244,"1633 N Prospect Ave Unit 4E, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+92,92,Milwaukee,"$349,900",No Data Available,No Data Available,"2,032 ",https://www.redfin.com/WI/Milwaukee/1751-N-Arlington-Pl-53202/unit-1753/home/190759700,"1751 N Arlington Pl #1753, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+93,93,Milwaukee,"$599,000",2 beds,2 baths,"1,826 ",https://www.redfin.com/WI/Milwaukee/1522-N-Prospect-Ave-53202/unit-503/home/90323018,"1522 N Prospect Ave #503, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+94,94,Milwaukee,"$699,900",1 bed,1.5 baths,"2,030 ",https://www.redfin.com/WI/Milwaukee/777-N-Prospect-Ave-53202/unit-NT2/home/58043663,"777 N Prospect Ave Unit NT2, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+95,95,Milwaukee,"$439,900",2 beds,2 baths,"1,433 ",https://www.redfin.com/WI/Milwaukee/1550-E-Royall-Pl-53202/unit-613/home/58040587,"1550 E Royall Pl #613, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+96,96,Milwaukee,"$489,000",2 beds,2 baths,"1,783 ",https://www.redfin.com/WI/Milwaukee/730-N-Plankinton-Ave-53203/unit-4A/home/58028169,"730 N Plankinton Ave Unit 4A, Milwaukee, WI 53203",1,0,2024-07-19-17-01-40
+97,97,Milwaukee,"$1,250,000",2 beds,2.5 baths,"1,909 ",https://www.redfin.com/WI/Milwaukee/1141-N-Dr-Martin-Luther-King-Jr-Dr-53203/unit-3002/home/185367769,"1141 N Martin L King Jr Dr #3002, Milwaukee, WI 53203",1,0,2024-07-19-17-01-40
+98,98,Milwaukee,"$1,050,000",3 beds,2.5 baths,"3,120 ",https://www.redfin.com/WI/Milwaukee/1141-N-Dr-Martin-Luther-King-Jr-Dr-53203/unit-2902/home/90317312,"1141 N Martin L King Jr Dr #2902, Milwaukee, WI 53203",1,0,2024-07-19-17-01-40
+99,99,Milwaukee,"$695,000",2 beds,2 baths,"1,240 ",https://www.redfin.com/WI/Milwaukee/130-S-Water-St-53204/unit-315/home/90323276,"130 S Water St #315, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+100,100,Milwaukee,"$775,000",2 beds,2 baths,"1,379 ",https://www.redfin.com/WI/Milwaukee/106-W-Seeboth-St-53204/unit-903/home/90317087,"106 W Seeboth St #903, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+101,101,Milwaukee,"$1,200,000",2 beds,2 baths,"1,379 ",https://www.redfin.com/WI/Milwaukee/106-W-Seeboth-St-53204/unit-411/home/58026999,"106 W Seeboth St #411, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+102,102,Milwaukee,"$409,900",1 bed,1 bath,789 ,https://www.redfin.com/WI/Milwaukee/106-W-Seeboth-St-53204/unit-609/home/58027005,"106 W Seeboth St #609, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+103,103,Milwaukee,"$2,950,000",3 beds,3.5 baths,"4,701 ",https://www.redfin.com/WI/Milwaukee/102-N-Water-St-53202/unit-802/home/90341718,"102 N Water St #802, Milwaukee, WI 53202",1,0,2024-07-19-17-01-40
+104,104,Milwaukee,"$244,900",6 beds,2 baths,"2,866 ",https://www.redfin.com/WI/Milwaukee/1910-W-Forest-Home-Ave-53204/unit-1912/home/191716539,"1910 W Forest Home Ave #1912, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+105,105,Milwaukee,"$10,000",2 beds,2 baths,"2,568 ",https://www.redfin.com/WI/Milwaukee/1901-S-26th-St-53204/home/90372054,"1901 S 26th St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+106,106,Milwaukee,"$10,000",2 beds,3 baths,"2,142 ",https://www.redfin.com/WI/Milwaukee/1577-S-25th-St-53204/home/57870677,"1577 S 25th St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+107,107,Milwaukee,"$99,900",3 beds,1.5 baths,"1,152 ",https://www.redfin.com/WI/Milwaukee/1961-S-Congo-Ave-53204/home/57708002,"1961 S Congo Ave, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+108,108,Milwaukee,"$264,000",No Data Available,No Data Available,"3,218 ",https://www.redfin.com/WI/Milwaukee/1970-S-16th-St-53204/home/58054877,"1970 S 16th St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+109,109,Milwaukee,"$375,000",2 beds,1.5 baths,"2,562 ",https://www.redfin.com/WI/Milwaukee/1033-W-National-Ave-53204/home/191505722,"1033 W National Ave, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+110,110,Milwaukee,"$235,000",2 beds,2 baths,"2,016 ",https://www.redfin.com/WI/Milwaukee/1719-S-1st-St-53204/home/90234341,"1719 S 1st St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+111,111,Milwaukee,"$255,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/1539-S-11th-St-53204/home/90233990,"1539 S 11th St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+112,112,Milwaukee,"$249,900",6 beds,3 baths,"2,500 ",https://www.redfin.com/WI/Milwaukee/1319-S-17th-St-53204/home/58066625,"1319 S 17th St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+113,113,Milwaukee,"$156,500",3 beds,2 baths,"1,350 ",https://www.redfin.com/WI/Milwaukee/653-W-Bruce-St-53204/home/90231362,"653 W Bruce St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+114,114,Milwaukee,"$246,500",3 beds,1.5 baths,"1,452 ",https://www.redfin.com/WI/Milwaukee/651-W-Bruce-St-53204/home/90230919,"651 W Bruce St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+115,115,Milwaukee,"$160,000",6 beds,2 baths,"2,210 ",https://www.redfin.com/WI/Milwaukee/2217-W-Orchard-St-53204/unit-2219/home/58055871,"2217 W Orchard St #2219, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+116,116,Milwaukee,"$225,000",7 beds,3 baths,"2,466 ",https://www.redfin.com/WI/Milwaukee/2016-S-15th-St-53204/unit-2018/home/58068266,"2016 S 15th St #2018, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+117,117,Milwaukee,"$375,000",No Data Available,No Data Available,"3,940 ",https://www.redfin.com/WI/Milwaukee/2608-W-Mitchell-St-53204/home/90233320,"2608 W Mitchell St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+118,118,Milwaukee,"$150,000",4 beds,2 baths,"1,789 ",https://www.redfin.com/WI/Milwaukee/1543-S-23rd-St-53204/home/58059354,"1543 S 23rd St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+119,119,Milwaukee,"$120,000",4 beds,1 bath,"1,122 ",https://www.redfin.com/WI/Milwaukee/1528-S-Comstock-Ave-53204/home/90370825,"1528 S Comstock Ave, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+120,120,Milwaukee,"$4,499,000",No Data Available,No Data Available,1.40 ,https://www.redfin.com/WI/Milwaukee/1803-S-Kinnickinnic-Ave-53204/unit-1825/home/148032589,"1803 S Kinnickinnic Ave #1825, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+121,121,Milwaukee,"$1,490,000",No Data Available,No Data Available,0.40 ,https://www.redfin.com/WI/Milwaukee/1803-S-Kinnickinnic-Ave-53204/unit-1817/home/188220982,"1803 S Kinnickinnic Ave #1817, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+122,122,Milwaukee,"$1,490,000",No Data Available,No Data Available,0.34 ,https://www.redfin.com/WI/Milwaukee/1823-S-Kinnickinnic-Ave-53204/unit-1825/home/189637534,"1823 S Kinnickinnic Ave #1825, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+123,123,Milwaukee,"$1,490,000",No Data Available,No Data Available,0.42 ,https://www.redfin.com/WI/Milwaukee/1800-S-1st-St-53204/home/189635931,"1800 S 1st St, Milwaukee, WI 53204",1,0,2024-07-19-17-01-40
+124,124,Milwaukee,"$159,900",4 beds,2 baths,"1,692 ",https://www.redfin.com/WI/Milwaukee/2127-N-24th-Pl-53205/home/58060345,"2127 N 24th Pl, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+125,125,Milwaukee,"$199,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/2311-W-McKinley-Ave-53205/unit-2313/home/185301143,"2311 W Mckinley Ave #2313, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+126,126,Milwaukee,"$109,000",4 beds,2 baths,"1,108 ",https://www.redfin.com/WI/Milwaukee/1323-W-McKinley-Ave-53205/home/90365454,"1323 W Mckinley Ave, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+127,127,Milwaukee,"$249,000",3 beds,2.5 baths,"1,818 ",https://www.redfin.com/WI/Milwaukee/1807-N-22nd-St-53205/home/57760860,"1807 N 22nd St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+128,128,Milwaukee,"$120,000",4 beds,1 bath,"1,380 ",https://www.redfin.com/WI/Milwaukee/1314-N-22nd-St-53205/home/90365665,"1314 N 22nd St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+129,129,Milwaukee,"$250,000",3 beds,1.5 baths,"1,660 ",https://www.redfin.com/WI/Milwaukee/1723-N-20th-St-53205/home/60376913,"1723 N 20th St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+130,130,Milwaukee,"$259,900",3 beds,2.5 baths,"1,728 ",https://www.redfin.com/WI/Milwaukee/2135-W-Vine-St-53205/home/58008355,"2135 W Vine St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+131,131,Milwaukee,"$359,900",3 beds,2.5 baths,"1,448 ",https://www.redfin.com/WI/Milwaukee/2025-W-Vliet-St-53205/home/185367778,"2025 W Vliet St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+132,132,Milwaukee,"$369,900",4 beds,2 baths,"1,531 ",https://www.redfin.com/WI/Milwaukee/2015-W-Vliet-St-53205/home/185367779,"2015 W Vliet St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+133,133,Milwaukee,"$359,900",3 beds,2.5 baths,"1,448 ",https://www.redfin.com/WI/Milwaukee/2007-W-Vliet-St-53205/home/185367780,"2007 W Vliet St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+134,134,Milwaukee,"$369,900",4 beds,2 baths,"1,531 ",https://www.redfin.com/WI/Milwaukee/2001-W-Vliet-St-53205/home/191606808,"2001 W Vliet St, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+135,135,Milwaukee,"$145,000",6 beds,2 baths,"2,752 ",https://www.redfin.com/WI/Milwaukee/2222-N-16th-St-53205/unit-2224/home/177381796,"2222 16th St #2224, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+136,136,Milwaukee,"$325,000",No Data Available,No Data Available,"4,240 ",https://www.redfin.com/WI/Milwaukee/2625-W-North-Ave-53205/home/90225603,"2625 W North Ave, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+137,137,Milwaukee,"$50,000",No Data Available,No Data Available,0.23 ,https://www.redfin.com/WI/Milwaukee/1814-W-Walnut-St-53205/unit-1816-1820-1822/home/190932322,"1814 W Walnut St Unit -1816, 1820-1822, Milwaukee, WI 53205",1,0,2024-07-19-17-01-40
+138,138,Milwaukee,"$95,000",5 beds,2 baths,"2,454 ",https://www.redfin.com/WI/Milwaukee/1922-N-27th-St-53208/unit-1924/home/174197260,"1922 N 27th St #1924, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+139,139,Milwaukee,"$105,000",5 beds,2 baths,"1,750 ",https://www.redfin.com/WI/Milwaukee/1642-N-29th-St-53208/unit-1642A/home/58064543,"1642 N 29th St Unit 1642A, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+140,140,Milwaukee,"$99,000",3 beds,1 bath,"1,090 ",https://www.redfin.com/WI/Milwaukee/2445-N-25th-St-53206/home/57682244,"2445 N 25th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+141,141,Milwaukee,"$50,000",4 beds,1 bath,"2,361 ",https://www.redfin.com/WI/Milwaukee/2726-W-McKinley-Blvd-53208/home/90227556,"2726 W Mckinley Blvd, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+142,142,Milwaukee,"$169,900",5 beds,2.5 baths,"3,772 ",https://www.redfin.com/WI/Milwaukee/1032-N-21st-St-53233/home/57637488,"1032 N 21st St, Milwaukee, WI 53233",1,0,2024-07-19-17-01-40
+143,143,Milwaukee,"$85,000",No Data Available,No Data Available,"4,791 ",https://www.redfin.com/WI/Milwaukee/500-W-Vine-St-53212/unit-502/home/191283255,"500 W Vine St #502, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+144,144,Milwaukee,"$105,900",No Data Available,No Data Available,"3,208 ",https://www.redfin.com/WI/Milwaukee/1801-W-Meinecke-Ave-53206/home/90223606,"1801 W Meinecke Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+145,145,Milwaukee,"$449,000",5 beds,3 baths,"5,270 ",https://www.redfin.com/WI/Milwaukee/2929-W-Highland-Blvd-53208/home/172725514,"2929 W Highland Blvd, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+146,146,Milwaukee,"$37,900",2 beds,1 bath,809 ,https://www.redfin.com/WI/Milwaukee/408-W-Wright-St-53212/home/90223713,"408 W Wright St, Milwaukee, WI 53212",1,0,2024-07-19-17-01-40
+147,147,Milwaukee,"$310,000",3 beds,1 bath,"1,566 ",https://www.redfin.com/WI/Milwaukee/1834-N-Dr-William-Finlayson-St-53212/home/79097714,"1834 Dr William Finlayson St, Milwaukee, WI 53212",1,0,2024-07-19-17-01-40
+148,148,Milwaukee,"$90,000",2 beds,1 bath,"1,022 ",https://www.redfin.com/WI/Milwaukee/3741-N-25th-St-53206/home/90212115,"3741 N 25th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+149,149,Milwaukee,"$134,500",4 beds,2 baths,"1,366 ",https://www.redfin.com/WI/Milwaukee/3135-N-9th-St-53206/home/90214797,"3135 N 9th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+150,150,Milwaukee,"$19,500",2 beds,1 bath,728 ,https://www.redfin.com/WI/Milwaukee/3042-N-19th-St-53206/home/90220564,"3042 N 19th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+151,151,Milwaukee,"$55,000",3 beds,1 bath,"1,204 ",https://www.redfin.com/WI/Milwaukee/2958-N-19th-St-53206/home/90220069,"2958 N 19th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+152,152,Milwaukee,"$74,900",6 beds,2 baths,"2,044 ",https://www.redfin.com/WI/Milwaukee/3139-N-14th-St-53206/home/90215006,"3139 N 14th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+153,153,Milwaukee,"$109,000",3 beds,2 baths,"1,460 ",https://www.redfin.com/WI/Milwaukee/2749-N-23rd-St-53206/home/103757807,"2749 N 23rd St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+154,154,Milwaukee,"$62,000",4 beds,1.5 baths,"1,701 ",https://www.redfin.com/WI/Milwaukee/3051-N-12th-St-53206/home/90220676,"3051 N 12th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+155,155,Milwaukee,"$79,900",2 beds,1 bath,880 ,https://www.redfin.com/WI/Milwaukee/3253-N-25th-St-53206/home/90318785,"3253 N 25th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+156,156,Milwaukee,"$114,900",3 beds,1 bath,"1,282 ",https://www.redfin.com/WI/Milwaukee/1532-W-Concordia-Ave-53206/home/57760515,"1532 W Concordia Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+157,157,Milwaukee,"$275,000",6 beds,2 baths,"2,626 ",https://www.redfin.com/WI/Milwaukee/3834-N-11th-St-53206/unit-3836/home/180587941,"3834 N 11th St #3836, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+158,158,Milwaukee,"$135,000",3 beds,2 baths,"1,431 ",https://www.redfin.com/WI/Milwaukee/4135-N-25th-St-53209/home/57672545,"4135 N 25th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+159,159,Milwaukee,"$199,900",3 beds,1.5 baths,"1,306 ",https://www.redfin.com/WI/Milwaukee/3625-N-19th-St-53206/home/57912872,"3625 N 19th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+160,160,Milwaukee,"$199,900",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/1917-W-Atkinson-Ave-53206/home/58077985,"1917 W Atkinson Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+161,161,Milwaukee,"$105,000",4 beds,2 baths,"1,573 ",https://www.redfin.com/WI/Milwaukee/2948-N-Mother-Simpson-Way-53206/unit-2948A/home/185295020,"2948 N Mother Simpson Way Unit 2948A, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+162,162,Milwaukee,"$64,900",4 beds,1.5 baths,"1,463 ",https://www.redfin.com/WI/Milwaukee/3358-N-25th-St-53206/home/57902259,"3358 N 25th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+163,163,Milwaukee,"$149,900",4 beds,1.5 baths,"1,600 ",https://www.redfin.com/WI/Milwaukee/3637-N-19th-St-53206/home/90354385,"3637 N 19th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+164,164,Milwaukee,"$96,000",3 beds,1 bath,"1,536 ",https://www.redfin.com/WI/Milwaukee/3941-N-25th-St-53206/home/90212477,"3941 N 25th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+165,165,Milwaukee,"$16,000",4 beds,2 baths,"1,872 ",https://www.redfin.com/WI/Milwaukee/3227-N-15th-St-53206/unit-3229/home/190921138,"3227 N 15th St #3229, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+166,166,Milwaukee,"$20,000",3 beds,1 bath,"1,081 ",https://www.redfin.com/WI/Milwaukee/1114-W-Ring-St-53206/home/90355858,"1114 W Ring St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+167,167,Milwaukee,"$79,000",4 beds,2 baths,"2,019 ",https://www.redfin.com/WI/Milwaukee/3332-N-14th-St-53206/unit-3334/home/58063151,"3332 N 14th St #3334, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+168,168,Milwaukee,"$28,500",4 beds,3.5 baths,"2,514 ",https://www.redfin.com/WI/Milwaukee/1033-W-Keefe-Ave-53206/home/58002783,"1033 W Keefe Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+169,169,Milwaukee,"$89,900",5 beds,3 baths,"2,200 ",https://www.redfin.com/WI/Milwaukee/3157-N-8th-St-53206/unit-3159/home/191414016,"3157 N 8th St #3159, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+170,170,Milwaukee,"$108,000",4 beds,1 bath,"1,392 ",https://www.redfin.com/WI/Milwaukee/2564-N-15th-St-53206/home/90223387,"2564 N 15th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+171,171,Milwaukee,"$139,900",4 beds,2 baths,"2,474 ",https://www.redfin.com/WI/Milwaukee/1532-W-Burleigh-St-53206/home/90215037,"1532 W Burleigh St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+172,172,Milwaukee,"$155,000",4 beds,2 baths,"1,863 ",https://www.redfin.com/WI/Milwaukee/3630-N-12th-St-53206/home/191261342,"3630 N 12th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+173,173,Milwaukee,"$119,900",4 beds,1 bath,"1,256 ",https://www.redfin.com/WI/Milwaukee/2634-N-24th-Pl-53206/home/57834861,"2634 N 24th Pl, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+174,174,Milwaukee,"$149,900",4 beds,1.5 baths,"1,300 ",https://www.redfin.com/WI/Milwaukee/3321-N-10th-St-53206/home/90355880,"3321 N 10th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+175,175,Milwaukee,"$110,000",6 beds,2 baths,"2,784 ",https://www.redfin.com/WI/Milwaukee/2865-N-9th-St-53206/unit-2867/home/190890692,"2865 N 9th St #2867, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+176,176,Milwaukee,"$148,900",4 beds,2 baths,"1,449 ",https://www.redfin.com/WI/Milwaukee/2474-W-Keefe-Ave-53206/home/57941740,"2474 W Keefe Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+177,177,Milwaukee,"$120,000",4 beds,2 baths,"3,291 ",https://www.redfin.com/WI/Milwaukee/3639-N-22nd-St-53206/unit-3641/home/190889797,"3639 N 22nd St #3641, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+178,178,Milwaukee,"$110,000",5 beds,2 baths,"1,851 ",https://www.redfin.com/WI/Milwaukee/1304-W-Ring-St-53206/home/58066792,"1304 W Ring St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+179,179,Milwaukee,"$97,000",5 beds,1 bath,"1,601 ",https://www.redfin.com/WI/Milwaukee/3633-N-19th-St-53206/home/90212928,"3633 N 19th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+180,180,Milwaukee,"$135,000",4 beds,2 baths,"1,576 ",https://www.redfin.com/WI/Milwaukee/3139-N-11th-St-53206/home/90355830,"3139 N 11th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+181,181,Milwaukee,"$37,100",4 beds,1 bath,"1,344 ",https://www.redfin.com/WI/Milwaukee/3918-N-23rd-St-53206/home/90211837,"3918 N 23rd St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+182,182,Milwaukee,"$90,000",4 beds,2 baths,"1,877 ",https://www.redfin.com/WI/Milwaukee/3706-N-26th-St-53206/home/90354191,"3706 N 26th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+183,183,Milwaukee,"$85,000",5 beds,2 baths,"1,736 ",https://www.redfin.com/WI/Milwaukee/3401-N-11th-St-53206/home/190608924,"3401 N 11th St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+184,184,Milwaukee,"$129,999",4 beds,2 baths,"1,092 ",https://www.redfin.com/WI/Milwaukee/3833-N-23rd-St-53206/home/58076838,"3833 N 23rd St, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+185,185,Milwaukee,"$79,900",5 beds,2 baths,"2,419 ",https://www.redfin.com/WI/Milwaukee/2548-N-Teutonia-Ave-53206/home/90223895,"2548 N Teutonia Ave, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+186,186,Milwaukee,"$349,900",3 beds,2 baths,"1,258 ",https://www.redfin.com/WI/Milwaukee/4072-S-Burrell-St-53207/home/58000121,"4072 S Burrell St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+187,187,Milwaukee,"$232,000",3 beds,1 bath,"1,034 ",https://www.redfin.com/WI/Milwaukee/3960-S-Herman-St-53207/home/57680375,"3960 S Herman St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+188,188,Milwaukee,"$259,900",4 beds,1 bath,"2,206 ",https://www.redfin.com/WI/Milwaukee/144-W-Allerton-Ave-53207/home/90249449,"144 W Allerton Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+189,189,Milwaukee,"$255,000",2 beds,1 bath,"1,294 ",https://www.redfin.com/WI/Milwaukee/4330-S-Austin-St-53207/home/90249605,"4330 S Austin St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+190,190,Milwaukee,"$239,900",3 beds,1 bath,"1,058 ",https://www.redfin.com/WI/Milwaukee/156-W-Howard-Ave-53207/home/90378860,"156 W Howard Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+191,191,Milwaukee,"$240,000",3 beds,1 bath,"1,260 ",https://www.redfin.com/WI/Milwaukee/4015-S-Herman-St-53207/home/90249460,"4015 S Herman St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+192,192,Milwaukee,"$279,900",3 beds,1 bath,"1,344 ",https://www.redfin.com/WI/Milwaukee/1106-E-Holt-Ave-53207/home/90378141,"1106 E Holt Ave, Bay View, WI 53207",1,0,2024-07-19-17-01-40
+193,193,Milwaukee,"$280,000",4 beds,1.5 baths,"1,950 ",https://www.redfin.com/WI/Milwaukee/4388-S-Howell-Ave-53207/home/90250006,"4388 S Howell Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+194,194,Milwaukee,"$999,997",4 beds,3 baths,"1,788 ",https://www.redfin.com/WI/Milwaukee/1928-E-Iron-St-53207/home/191547601,"1928 E Iron St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+195,195,Milwaukee,"$390,000",4 beds,2 baths,"1,857 ",https://www.redfin.com/WI/Milwaukee/2967-S-Kinnickinnic-Ave-53207/unit-2969/home/177681587,"2967 S Kinnickinnic Ave #2969, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+196,196,Milwaukee,"$449,900",6 beds,2 baths,"2,880 ",https://www.redfin.com/WI/Milwaukee/2920-2922-S-Lenox-St-53207/home/191304738,"2920-2922 S Lenox St, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+197,197,Milwaukee,"$220,000",4 beds,1 bath,"1,229 ",https://www.redfin.com/WI/Milwaukee/155-W-Bolivar-Ave-53207/home/90249286,"155 W Bolivar Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+198,198,Milwaukee,"$230,000",3 beds,1 bath,"1,360 ",https://www.redfin.com/WI/Milwaukee/4267-S-1st-Pl-53207/home/57739330,"4267 S 1st Pl, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+199,199,Milwaukee,"$999,997",7 beds,5 baths,"3,082 ",https://www.redfin.com/WI/Milwaukee/1922-E-Iron-St-53207/unit-1928/home/191587616,"1922 E Iron St #1928, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+200,200,Milwaukee,"$625,000",4 beds,1.5 baths,"2,188 ",https://www.redfin.com/WI/Milwaukee/2935-E-Rhode-Island-Ave-53207/home/90244533,"2935 E Rhode Island Avenue East Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+201,201,Milwaukee,"$600,000",3 beds,1.5 baths,"2,437 ",https://www.redfin.com/WI/Milwaukee/605-E-Euclid-Ave-53207/home/90377976,"605 E Euclid Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+202,202,Milwaukee,"$299,900",4 beds,2 baths,"1,350 ",https://www.redfin.com/WI/Milwaukee/4512-S-Jasper-Ave-53207/home/90319825,"4512 S Jasper Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+203,203,Milwaukee,"$214,900",3 beds,1 bath,"1,295 ",https://www.redfin.com/WI/Milwaukee/3620-S-Howell-Ave-53207/home/90245876,"3620 S Howell Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+204,204,Milwaukee,"$273,000",4 beds,1 bath,"1,133 ",https://www.redfin.com/WI/Milwaukee/3624-S-Howell-Ave-53207/home/90245874,"3624 S Howell Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+205,205,Milwaukee,"$239,900",2 beds,1 bath,"1,026 ",https://www.redfin.com/WI/Milwaukee/3423-S-Kansas-Ave-53207/home/90243921,"3423 S Kansas Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+206,206,Milwaukee,"$289,900",6 beds,2 baths,"2,302 ",https://www.redfin.com/WI/Milwaukee/3026-S-Hanson-Ave-53207/unit-3028/home/58064705,"3026 S Hanson Ave #3028, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+207,207,Milwaukee,"$309,000",4 beds,2.5 baths,"1,352 ",https://www.redfin.com/WI/Milwaukee/3049-S-Hanson-Ave-53207/home/57945366,"3049 S Hanson Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+208,208,Milwaukee,"$619,000",No Data Available,No Data Available,"3,455 ",https://www.redfin.com/WI/Milwaukee/2962-S-Delaware-Ave-53207/unit-A-B/home/189826795,"2962 S Delaware Ave Unit A, B, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+209,209,Milwaukee,"$459,000",4 beds,2 baths,"2,431 ",https://www.redfin.com/WI/Milwaukee/2415-S-Kinnickinnic-Ave-53207/home/190007361,"2415 S Kinnickinnic Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+210,210,Milwaukee,"$398,500",4 beds,1 bath,"1,768 ",https://www.redfin.com/WI/Milwaukee/467-E-Lincoln-Ave-53207/home/90374356,"467 E Lincoln Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+211,211,Milwaukee,"$450,000",2 beds,2 baths,"2,034 ",https://www.redfin.com/WI/Milwaukee/2525-S-Shore-Dr-53207/unit-20B-C/home/189703345,"2525 S Shore Dr Unit 20B, C, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+212,212,Milwaukee,"$400,000",3 beds,1 bath,"1,288 ",https://www.redfin.com/WI/Milwaukee/3459-S-Kinnickinnic-Ave-53207/home/90244358,"3459 S Kinnickinnic Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+213,213,Milwaukee,"$349,900",3 beds,2 baths,"1,351 ",https://www.redfin.com/WI/Milwaukee/1115-E-Oklahoma-Ave-53207/home/57998460,"1115 E Oklahoma Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+214,214,Milwaukee,"$149,000",No Data Available,No Data Available,"3,484 ",https://www.redfin.com/WI/Milwaukee/902-E-Potter-Ave-53207/home/58106494,"902 E Potter Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+215,215,Milwaukee,"$85,000",No Data Available,No Data Available,"4,356 ",https://www.redfin.com/WI/Milwaukee/3405-S-Whitnall-Ave-53207/home/189894464,"3405 S Whitnall Ave, Milwaukee, WI 53207",1,0,2024-07-19-17-01-40
+216,216,Milwaukee,"$195,000",4 beds,2 baths,"3,100 ",https://www.redfin.com/WI/Milwaukee/509-N-28th-St-53208/home/90229557,"509 N 28th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+217,217,Milwaukee,"$105,000",6 beds,2 baths,"2,263 ",https://www.redfin.com/WI/Milwaukee/3541-W-Cherry-St-53208/unit-3543/home/185283914,"3541 W Cherry St #3543, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+218,218,Milwaukee,"$398,000",3 beds,1.5 baths,"2,175 ",https://www.redfin.com/WI/Milwaukee/4923-W-Sunnyside-Dr-53208/home/57738318,"4923 W Sunnyside Dr, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+219,219,Milwaukee,"$285,000",3 beds,1 bath,"1,485 ",https://www.redfin.com/WI/Milwaukee/1302-N-59th-St-53208/home/57900842,"1302 N 59th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+220,220,Milwaukee,"$374,900",7 beds,3 baths,"2,848 ",https://www.redfin.com/WI/Milwaukee/1523-N-47th-St-53208/unit-1525/home/185291490,"1523 N 47th St #1525, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+221,221,Milwaukee,"$184,999",4 beds,2 baths,"1,606 ",https://www.redfin.com/WI/Milwaukee/431-N-29th-St-53208/home/57678095,"431 N 29th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+222,222,Milwaukee,"$199,900",No Data Available,No Data Available,"3,160 ",https://www.redfin.com/WI/Milwaukee/971-N-37th-St-53208/unit-975/home/172014604,"971 N 37th St Unit -975, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+223,223,Milwaukee,"$599,900",4 beds,2.5 baths,"2,520 ",https://www.redfin.com/WI/Milwaukee/4707-W-Woodlawn-Ct-53208/home/57994821,"4707 W Woodlawn Ct, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+224,224,Milwaukee,"$85,000",6 beds,2 baths,"2,440 ",https://www.redfin.com/WI/Milwaukee/2139-N-36th-St-53208/unit-2141/home/177462838,"2139 N 36th St #2141, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+225,225,Milwaukee,"$119,000",4 beds,2 baths,"1,962 ",https://www.redfin.com/WI/Milwaukee/2123-N-33rd-St-53208/home/90225666,"2123 N 33rd St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+226,226,Milwaukee,"$269,500",5 beds,2 baths,"2,278 ",https://www.redfin.com/WI/Milwaukee/1444-N-48th-St-53208/home/191549315,"1444 N 48th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+227,227,Milwaukee,"$90,500",4 beds,2 baths,"2,116 ",https://www.redfin.com/WI/Milwaukee/403-N-32nd-St-53208/home/57759686,"403 N 32nd St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+228,228,Milwaukee,"$269,900",3 beds,1 bath,"1,229 ",https://www.redfin.com/WI/Milwaukee/1368-N-Hawley-Rd-53208/home/90228464,"1368 N Hawley Rd, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+229,229,Milwaukee,"$299,900",4 beds,3 baths,"1,772 ",https://www.redfin.com/WI/Milwaukee/1925-N-54th-St-53208/home/57666345,"1925 N 54th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+230,230,Milwaukee,"$115,900",5 beds,2 baths,"1,928 ",https://www.redfin.com/WI/Milwaukee/2017-N-40th-St-53208/unit-2021/home/177853180,"2017 N 40th St #2021, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+231,231,Milwaukee,"$309,900",4 beds,3 baths,"2,391 ",https://www.redfin.com/WI/Milwaukee/1600-N-49th-St-53208/unit-1602/home/191473364,"1600 N 49th St #1602, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+232,232,Milwaukee,"$119,900",6 beds,2 baths,"1,425 ",https://www.redfin.com/WI/Milwaukee/1508-N-39th-St-53208/unit-1510/home/190191859,"1508 N 39th St #1510, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+233,233,Milwaukee,"$494,900",3 beds,2.5 baths,"2,869 ",https://www.redfin.com/WI/Milwaukee/3402-W-Saint-Paul-Ave-53208/home/90367215,"3402 W Saint Paul Ave, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+234,234,Milwaukee,"$229,000",3 beds,2 baths,"1,454 ",https://www.redfin.com/WI/Milwaukee/2010-N-55th-St-53208/home/90224915,"2010 N 55th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+235,235,Milwaukee,"$305,000",5 beds,2 baths,"2,876 ",https://www.redfin.com/WI/Milwaukee/1907-N-47th-St-53208/unit-1909/home/185308695,"1907 N 47th St #1909, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+236,236,Milwaukee,"$324,900",4 beds,2 baths,"2,236 ",https://www.redfin.com/WI/Milwaukee/2217-N-60th-St-53208/home/90334491,"2217 N 60th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+237,237,Milwaukee,"$99,900",4 beds,2 baths,"1,665 ",https://www.redfin.com/WI/Milwaukee/1535-N-37th-St-53208/home/90228361,"1535 N 37th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+238,238,Milwaukee,"$335,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/3946-W-Galena-St-53208/unit-3948/home/185307032,"3946 W Galena St #3948, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+239,239,Milwaukee,"$95,000",6 beds,2 baths,"2,303 ",https://www.redfin.com/WI/Milwaukee/2031-N-37th-St-53208/unit-2031A/home/191035171,"2031 N 37th St Unit 2031A, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+240,240,Milwaukee,"$259,900",4 beds,2 baths,"2,028 ",https://www.redfin.com/WI/Milwaukee/1757-N-55th-St-53208/home/90225820,"1757 N 55th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+241,241,Milwaukee,"$85,000",5 beds,1.5 baths,"1,899 ",https://www.redfin.com/WI/Milwaukee/1947-N-37th-St-53208/home/57717442,"1947 N 37th St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+242,242,Milwaukee,"$735,000",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/3303-W-Juneau-Ave-53208/unit-3311/home/172017080,"3303 W Juneau Ave #3311, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+243,243,Milwaukee,"$80,999",4 beds,2 baths,"2,214 ",https://www.redfin.com/WI/Milwaukee/1945-N-39th-St-53208/unit-1947/home/183383376,"1945 N 39th St #1947, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+244,244,Milwaukee,"$184,900",4 beds,2 baths,"2,762 ",https://www.redfin.com/WI/Milwaukee/3521-W-Highland-Blvd-53208/unit-3523/home/190230589,"3521 W Highland Blvd #3523, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+245,245,Milwaukee,"$340,000",No Data Available,No Data Available,"5,663 ",https://www.redfin.com/WI/Milwaukee/4018-W-Lisbon-Ave-53208/home/90225877,"4018 W Lisbon Ave, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+246,246,Milwaukee,"$335,900",3 beds,3 baths,"1,793 ",https://www.redfin.com/WI/Milwaukee/4815-W-Galena-St-53208/home/90228163,"4815 W Galena St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+247,247,Milwaukee,"$134,300",3 beds,2 baths,"1,300 ",https://www.redfin.com/WI/Milwaukee/2010-N-31st-St-53208/home/90225586,"2010 N 31st St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+248,248,Milwaukee,"$15,000",No Data Available,No Data Available,"4,356 ",https://www.redfin.com/WI/Milwaukee/2139-2141-N-32nd-St-53208/home/187600771,"2139-2141 N 32nd St, Milwaukee, WI 53208",1,0,2024-07-19-17-01-40
+249,249,Milwaukee,"$170,000",2 beds,2 baths,"1,463 ",https://www.redfin.com/WI/Milwaukee/1730-W-Green-Tree-Rd-53209/unit-205/home/87705250,"1730 W Green Tree Rd #205, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+250,250,Milwaukee,"$189,900",3 beds,1 bath,"2,136 ",https://www.redfin.com/WI/Milwaukee/5441-N-37th-St-53209/home/57753131,"5441 N 37th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+251,251,Milwaukee,"$269,900",4 beds,2 baths,"1,825 ",https://www.redfin.com/WI/Milwaukee/3914-W-Portage-St-53209/home/90343451,"3914 W Portage St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+252,252,Milwaukee,"$149,900",4 beds,2 baths,"1,714 ",https://www.redfin.com/WI/Milwaukee/5435-N-40th-St-53209/unit-A/home/90347866,"5435 N 40th Street North St Unit 5435A, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+253,253,Milwaukee,"$125,000",3 beds,1.5 baths,864 ,https://www.redfin.com/WI/Milwaukee/5419-N-20th-St-53209/home/90200688,"5419 N 20th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+254,254,Milwaukee,"$350,000",3 beds,2 baths,"2,213 ",https://www.redfin.com/WI/Milwaukee/2724-W-Vera-Ave-53209/home/57675191,"2724 W Vera Ave, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+255,255,Milwaukee,"$150,000",3 beds,1 bath,"1,098 ",https://www.redfin.com/WI/Milwaukee/5514-N-42nd-St-53209/home/57698589,"5514 N 42nd St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+256,256,Milwaukee,"$209,900",4 beds,1 bath,"1,352 ",https://www.redfin.com/WI/Milwaukee/6028-N-38th-St-53209/home/57756682,"6028 N 38th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+257,257,Milwaukee,"$139,900",4 beds,2 baths,"1,759 ",https://www.redfin.com/WI/Milwaukee/2827-W-Bobolink-Ave-53209/unit-2827A/home/58052180,"2827 W Bobolink Ave Unit 2827A, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+258,258,Milwaukee,"$180,000",1 bed,2 baths,"1,151 ",https://www.redfin.com/WI/Milwaukee/1600-W-Green-Tree-Rd-53209/unit-B130/home/90338773,"1600 W Green Tree Rd Unit B 130, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+259,259,Milwaukee,"$150,000",4 beds,1 bath,"1,466 ",https://www.redfin.com/WI/Milwaukee/1921-W-Hope-Ave-53209/home/90207924,"1921 W Hope Ave, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+260,260,Milwaukee,"$229,900",4 beds,2 baths,"1,522 ",https://www.redfin.com/WI/Milwaukee/4104-Good-Hope-Rd-53209/home/90343438,"4104 W Good Hope Rd, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+261,261,Milwaukee,"$20,000",2 beds,1 bath,752 ,https://www.redfin.com/WI/Milwaukee/5038-N-19th-Pl-53209/home/90200843,"5038 N 19th Pl, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+262,262,Milwaukee,"$315,000",3 beds,1.5 baths,"1,392 ",https://www.redfin.com/WI/Milwaukee/4616-N-Elm-Tree-Rd-53209/home/57972979,"4616 N Elm Tree Rd, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+263,263,Milwaukee,"$229,900",4 beds,2.5 baths,"1,837 ",https://www.redfin.com/WI/Milwaukee/1934-W-Congress-St-53209/home/90206907,"1934 W Congress St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+264,264,Milwaukee,"$249,900",4 beds,1 bath,"1,650 ",https://www.redfin.com/WI/Milwaukee/5919-N-35th-St-53209/home/90345932,"5919 N 35th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+265,265,Milwaukee,"$94,900",1 bed,1 bath,735 ,https://www.redfin.com/WI/Milwaukee/2350-W-Good-Hope-Rd-53209/unit-154/home/90327301,"2350 W Good Hope Rd #154, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+266,266,Milwaukee,"$339,900",3 beds,2 baths,"2,021 ",https://www.redfin.com/WI/Milwaukee/7140-N-Braeburn-Ln-53209/home/57747134,"7140 N Braeburn Ln, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+267,267,Milwaukee,"$279,900",3 beds,1.5 baths,"1,828 ",https://www.redfin.com/WI/Milwaukee/5629-N-Dexter-Ave-53209/home/90288725,"5629 N Dexter Ave, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+268,268,Milwaukee,"$189,900",3 beds,1 bath,"1,388 ",https://www.redfin.com/WI/Milwaukee/4973-N-36th-St-53209/home/90348472,"4973 N 36th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+269,269,Milwaukee,"$179,900",3 beds,1.5 baths,"1,413 ",https://www.redfin.com/WI/Milwaukee/5638-N-35th-St-53209/home/90197416,"5638 N 35th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+270,270,Milwaukee,"$189,900",4 beds,2 baths,"1,709 ",https://www.redfin.com/WI/Milwaukee/4731-N-35th-St-53209/home/90351100,"4731 N 35th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+271,271,Milwaukee,"$39,900",No Data Available,No Data Available,No Data Available,https://www.redfin.com/WI/Milwaukee/3629-W-Hampton-Ave-53209/home/191541755,"3629 W Hampton Ave, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+272,272,Milwaukee,"$275,000",2 beds,1 bath,"1,493 ",https://www.redfin.com/WI/Milwaukee/5663-N-Crestwood-Blvd-53209/home/57709047,"5663 N Crestwood Blvd, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+273,273,Milwaukee,"$165,000",3 beds,1 bath,"1,004 ",https://www.redfin.com/WI/Milwaukee/1128-W-Capitol-Dr-53206/home/90351457,"1128 W Capitol Dr, Milwaukee, WI 53206",1,0,2024-07-19-17-01-40
+274,274,Milwaukee,"$89,900",1 bed,1 bath,632 ,https://www.redfin.com/WI/Milwaukee/9500-N-Green-Bay-Rd-53209/unit-308/home/90280725,"9500 N Green Bay Rd #308, Brown Deer, WI 53209",1,0,2024-07-19-17-01-40
+275,275,Milwaukee,"$135,000",3 beds,1 bath,"1,008 ",https://www.redfin.com/WI/Milwaukee/5331-N-33rd-St-53209/home/76312342,"5331 N 33rd St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+276,276,Milwaukee,"$130,000",3 beds,1 bath,"1,053 ",https://www.redfin.com/WI/Milwaukee/5233-N-38th-St-53209/home/57713141,"5233 N 38th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+277,277,Milwaukee,"$123,900",4 beds,1.5 baths,"1,243 ",https://www.redfin.com/WI/Milwaukee/4920-N-36th-St-53209/home/57973144,"4920 N 36th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+278,278,Milwaukee,"$154,900",3 beds,2 baths,"1,288 ",https://www.redfin.com/WI/Milwaukee/5680-N-41st-St-53209/home/57705082,"5680 N 41st St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+279,279,Milwaukee,"$45,000",2 beds,1 bath,704 ,https://www.redfin.com/WI/Milwaukee/4766-N-22nd-St-53209/home/90207075,"4766 N 22nd St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+280,280,Milwaukee,"$99,900",4 beds,2 baths,"2,376 ",https://www.redfin.com/WI/Milwaukee/4611-N-38th-St-53209/unit-4613/home/185277887,"4611 N 38th St #4613, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+281,281,Milwaukee,"$99,900",4 beds,1 bath,"1,084 ",https://www.redfin.com/WI/Milwaukee/5034-N-42nd-St-53209/home/90201356,"5034 N 42nd St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+282,282,Milwaukee,"$59,000",2 beds,1 bath,702 ,https://www.redfin.com/WI/Milwaukee/4343-N-19th-Pl-53209/home/90207230,"4343 N 19th Pl, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+283,283,Milwaukee,"$275,000",3 beds,2 baths,"1,488 ",https://www.redfin.com/WI/Milwaukee/4661-N-Elm-Tree-Rd-53209/home/57644739,"4661 N Elm Tree Rd, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+284,284,Milwaukee,"$74,900",2 beds,1 bath,776 ,https://www.redfin.com/WI/Milwaukee/4755-N-36th-St-53209/home/57756340,"4755 N 36th St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+285,285,Milwaukee,"$149,900",5 beds,2 baths,"3,700 ",https://www.redfin.com/WI/Milwaukee/4502-N-41st-St-53209/home/191429903,"4502 N 41st St, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+286,286,Glendale,"$235,000",2 beds,2 baths,"1,172 ",https://www.redfin.com/WI/Glendale/1600-W-Green-Tree-Rd-53209/unit-202/home/191421529,"1600 W Green Tree Rd #202, Glendale, WI 53209",1,0,2024-07-19-17-01-40
+287,287,Milwaukee,"$100,000",2 beds,1.5 baths,"1,172 ",https://www.redfin.com/WI/Milwaukee/4050-W-Rivers-Edge-Cir-53209/unit-4/home/58022160,"4050 W Rivers Edge Cir #4, Brown Deer, WI 53209",1,0,2024-07-19-17-01-40
+288,288,Milwaukee,"$67,200",2 beds,1 bath,725 ,https://www.redfin.com/WI/Milwaukee/3105-W-Glendale-Ave-53209/home/90206415,"3105 W Glendale Ave, Milwaukee, WI 53209",1,0,2024-07-19-17-01-40
+289,289,Milwaukee,"$179,900",6 beds,2 baths,"2,658 ",https://www.redfin.com/WI/Milwaukee/2725-N-53rd-St-53210/unit-2727/home/191739754,"2725 N 53rd St #2727, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+290,290,Milwaukee,"$189,900",4 beds,2 baths,"2,152 ",https://www.redfin.com/WI/Milwaukee/2950-2952-N-54th-St-53210/home/191720990,"2950-2952 N 54th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+291,291,Milwaukee,"$190,000",3 beds,2 baths,"1,038 ",https://www.redfin.com/WI/Milwaukee/6031-W-Burleigh-St-53210/home/57947411,"6031 W Burleigh St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+292,292,Milwaukee,"$184,900",5 beds,2 baths,"3,192 ",https://www.redfin.com/WI/Milwaukee/2723-N-45th-St-53210/unit-2725/home/185295801,"2723 N 45th St #2725, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+293,293,Milwaukee,"$385,000",3 beds,1.5 baths,"2,481 ",https://www.redfin.com/WI/Milwaukee/7110-W-Hadley-St-53210/home/90218630,"7110 W Hadley St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+294,294,Milwaukee,"$299,900",6 beds,2 baths,"3,592 ",https://www.redfin.com/WI/Milwaukee/2876-N-49th-St-53210/unit-2878/home/185282188,"2876 N 49th St #2878, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+295,295,Milwaukee,"$249,900",4 beds,2.5 baths,"2,413 ",https://www.redfin.com/WI/Milwaukee/2957-N-52nd-St-53210/home/90218752,"2957 N 52nd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+296,296,Milwaukee,"$129,900",4 beds,1 bath,"1,309 ",https://www.redfin.com/WI/Milwaukee/2438-N-48th-St-53210/home/90224305,"2438 N 48th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+297,297,Milwaukee,"$120,000",4 beds,2 baths,"1,712 ",https://www.redfin.com/WI/Milwaukee/3061-N-52nd-St-53210/home/61588392,"3061 N 52nd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+298,298,Milwaukee,"$120,000",3 beds,1 bath,"1,168 ",https://www.redfin.com/WI/Milwaukee/2513-N-33rd-St-53210/home/90362145,"2513 N 33rd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+299,299,Milwaukee,"$339,900",4 beds,2 baths,"1,966 ",https://www.redfin.com/WI/Milwaukee/2929-N-72nd-St-53210/home/191583248,"2929 N 72nd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+300,300,Milwaukee,"$99,900",1 bed,1 bath,688 ,https://www.redfin.com/WI/Milwaukee/2552-N-53rd-St-53210/home/90362865,"2552 N 53rd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+301,301,Milwaukee,"$299,000",3 beds,1.5 baths,"1,552 ",https://www.redfin.com/WI/Milwaukee/2728-N-63rd-St-53210/home/57990378,"2728 N 63rd St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+302,302,Milwaukee,"$199,900",4 beds,2.5 baths,"1,714 ",https://www.redfin.com/WI/Milwaukee/2608-N-37th-St-53210/home/90362503,"2608 N 37th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+303,303,Milwaukee,"$181,000",3 beds,1.5 baths,"1,368 ",https://www.redfin.com/WI/Milwaukee/2579-N-58th-St-53210/home/57763458,"2579 N 58th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+304,304,Milwaukee,"$169,900",5 beds,2 baths,"2,062 ",https://www.redfin.com/WI/Milwaukee/2873-N-41st-St-53210/home/57911450,"2873 N 41st St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+305,305,Milwaukee,"$199,000",4 beds,2 baths,"2,559 ",https://www.redfin.com/WI/Milwaukee/2903-N-50th-St-53210/unit-2905/home/184140345,"2903 N 50th St #2905, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+306,306,Milwaukee,"$42,000",3 beds,1 bath,"1,172 ",https://www.redfin.com/WI/Milwaukee/2656-N-37th-St-53210/home/90224317,"2656 N 37th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+307,307,Milwaukee,"$169,900",4 beds,2 baths,"1,806 ",https://www.redfin.com/WI/Milwaukee/2661-N-44th-St-53210/home/189962249,"2661 N 44th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+308,308,Milwaukee,"$269,900",4 beds,2 baths,"1,448 ",https://www.redfin.com/WI/Milwaukee/2460-N-57th-St-53210/home/90363115,"2460 N 57th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+309,309,Milwaukee,"$81,500",4 beds,2 baths,"2,026 ",https://www.redfin.com/WI/Milwaukee/3033-N-28th-St-53210/home/191021132,"3033 N 28th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+310,310,Milwaukee,"$14,000",3 beds,1 bath,"1,400 ",https://www.redfin.com/WI/Milwaukee/2604-N-37th-St-53210/home/90224338,"2604 N 37th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+311,311,Milwaukee,"$199,900",4 beds,1.5 baths,"1,692 ",https://www.redfin.com/WI/Milwaukee/2432-N-55th-St-53210/home/90224909,"2432 N 55th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+312,312,Milwaukee,"$114,900",2 beds,1 bath,"1,020 ",https://www.redfin.com/WI/Milwaukee/2918-N-60th-St-53210/home/90219410,"2918 N 60th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+313,313,Milwaukee,"$109,900",5 beds,2 baths,"2,088 ",https://www.redfin.com/WI/Milwaukee/2625-N-50th-St-53210/unit-2625A/home/177421763,"2625 N 50th St Unit 2625A, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+314,314,Wauwatosa,"$324,900",3 beds,2 baths,"2,012 ",https://www.redfin.com/WI/Wauwatosa/2333-N-60th-St-53210/home/57657035,"2333 N 60th St, Wauwatosa, WI 53210",1,0,2024-07-19-17-01-40
+315,315,Milwaukee,"$98,000",2 beds,1 bath,949 ,https://www.redfin.com/WI/Milwaukee/6200-W-Locust-St-53210/home/57918050,"6200 W Locust St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+316,316,Milwaukee,"$179,000",5 beds,2 baths,"2,376 ",https://www.redfin.com/WI/Milwaukee/2729-N-49th-St-53210/home/190302309,"2729 N 49th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+317,317,Milwaukee,"$125,000",2 beds,1 bath,"1,045 ",https://www.redfin.com/WI/Milwaukee/2667-N-60th-St-53210/home/90224996,"2667 N 60th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+318,318,Milwaukee,"$104,900",4 beds,2 baths,"2,208 ",https://www.redfin.com/WI/Milwaukee/2768-N-28th-St-53210/unit-2770/home/184264630,"2768 N 28th St #2770, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+319,319,Milwaukee,"$185,000",3 beds,2 baths,"1,545 ",https://www.redfin.com/WI/Milwaukee/2868-N-58th-St-53210/home/90219227,"2868 N 58th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+320,320,Milwaukee,"$225,000",4 beds,2 baths,"2,200 ",https://www.redfin.com/WI/Milwaukee/2971-N-38th-St-53210/unit-2973/home/185309849,"2971 N 38th St #2973, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+321,321,Milwaukee,"$139,900",4 beds,1 bath,"1,409 ",https://www.redfin.com/WI/Milwaukee/4430-W-Meinecke-Ave-53210/home/167898100,"4430 W Meinecke Ave, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+322,322,Milwaukee,"$229,900",4 beds,2 baths,"2,108 ",https://www.redfin.com/WI/Milwaukee/2336-N-54th-St-53210/home/190049335,"2336 N 54th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+323,323,Milwaukee,"$850,000",1 bed,1.5 baths,"9,600 ",https://www.redfin.com/WI/Milwaukee/6618-W-Lisbon-Ave-53210/home/103758346,"6618 W Lisbon Ave, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+324,324,Milwaukee,"$5,000",6 beds,2 baths,"3,042 ",https://www.redfin.com/WI/Milwaukee/2476-N-40th-St-53210/unit-2478/home/190940483,"2476 N 40th St #2478, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+325,325,Milwaukee,"$100,000",4 beds,2 baths,"1,958 ",https://www.redfin.com/WI/Milwaukee/3069-N-29th-St-53210/home/58056948,"3069 N 29th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+326,326,Milwaukee,"$149,900",6 beds,2 baths,"2,794 ",https://www.redfin.com/WI/Milwaukee/2835-N-47th-St-53210/unit-2837/home/190804089,"2835 N 47th St #2837, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+327,327,Milwaukee,"$109,900",3 beds,1 bath,"1,890 ",https://www.redfin.com/WI/Milwaukee/2940-N-45th-St-53210/home/90219382,"2940 N 45th St, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+328,328,Milwaukee,"$254,000",4 beds,2 baths,"2,218 ",https://www.redfin.com/WI/Milwaukee/3063-N-55th-St-53210/unit-A/home/90218863,"3063 N 55th St Unit 3063A, Milwaukee, WI 53210",1,0,2024-07-19-17-01-40
+329,329,Germantown,"$302,000",2 beds,2 baths,"1,500 ",https://www.redfin.com/WI/Germantown/N97W17936-Mulberry-Ct-53022/home/185271275,"N97W17936 Mulberry Ct, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+330,330,Germantown,"$479,900",3 beds,3 baths,"2,558 ",https://www.redfin.com/WI/Germantown/W157N10210-Mohawk-Dr-53022/home/89681465,"W157N10210 Mohawk Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+331,331,Germantown,"$449,900",3 beds,2 baths,"2,017 ",https://www.redfin.com/WI/Germantown/W142N10513-Magnolia-Dr-53022/home/57725361,"W142N10513 Magnolia Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+332,332,Germantown,"$224,000",2 beds,2 baths,"1,085 ",https://www.redfin.com/WI/Germantown/N113W16241-Sylvan-Cir-53022/unit-108/home/58032961,"N113W16241 Sylvan Cir #108, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+333,333,Germantown,"$644,900",4 beds,2.5 baths,"2,281 ",https://www.redfin.com/WI/Germantown/W151N11802-Mistletoe-Rd-53022/home/189695868,"W151N11802 Mistletoe Rd, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+334,334,Germantown,"$449,900",3 beds,2.5 baths,"2,157 ",https://www.redfin.com/WI/Germantown/W160N10469-Brook-Hollow-Dr-53022/home/57908472,"W160N10469 Brook Hollow Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+335,335,Germantown,"$659,900",3 beds,2.5 baths,"2,142 ",https://www.redfin.com/WI/Germantown/N119W15047-Ivy-Ln-53022/home/189695872,"N119W15047 Ivy Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+336,336,Germantown,"$639,900",4 beds,2.5 baths,"2,659 ",https://www.redfin.com/WI/Germantown/N119W15050-Ivy-Ln-53022/home/189695878,"N119W15050 Ivy Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+337,337,Germantown,"$219,900",2 beds,2 baths,"1,127 ",https://www.redfin.com/WI/Germantown/N110W17155-Ashbury-Ln-53022/unit-2/home/146361651,"N110W17155 Ashbury Ln #2, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+338,338,Germantown,"$499,895",3 beds,2.5 baths,"1,734 ",https://www.redfin.com/WI/Germantown/N101W14201-Sunberry-Rd-53022/home/89669926,"N101W14201 Sunberry Rd, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+339,339,Germantown,"$425,000",3 beds,1.5 baths,"1,910 ",https://www.redfin.com/WI/Germantown/N99W16702-Woodcock-Rd-53022/home/89657035,"N99W16702 Woodcock Rd, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+340,340,Germantown,"$329,900",3 beds,1 bath,"1,300 ",https://www.redfin.com/WI/Germantown/N96W15830-County-Line-Rd-53022/home/89676860,"N96W15830 County Line Rd, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+341,341,Germantown,"$569,900",4 beds,2 baths,"1,692 ",https://www.redfin.com/WI/Germantown/W168N10185-Bittersweet-Trl-53022/home/191543027,"W168N10185 Bittersweet Trl, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+342,342,Germantown,"$524,900",2 beds,2 baths,"1,979 ",https://www.redfin.com/WI/Germantown/W142N11249-Wrenwood-Pass-53022/unit-13-Unit-36/home/191540721,"W142N11249 Wrenwood Pass Bldg 13 - Unit 36, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+343,343,Germantown,"$519,900",2 beds,2 baths,"1,863 ",https://www.redfin.com/WI/Germantown/W142N11247-Wrenwood-Pass-53022/unit-13-Unit-35/home/191540578,"W142N11247 Wrenwood Pass Bldg 13 - Unit 35, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+344,344,Germantown,"$390,000",3 beds,2 baths,"2,045 ",https://www.redfin.com/WI/Germantown/N99W14127-Seven-Pines-Way-53022/unit-B-702/home/191308350,"N99W14127 Seven Pines Way Unit B (702), Germantown, WI 53022",1,0,2024-07-19-17-01-40
+345,345,Germantown,"$209,000",2 beds,1 bath,936 ,https://www.redfin.com/WI/Germantown/N114W16680-Crown-Dr-53022/unit-4/home/89655102,"N114W16680 Crown Dr #4, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+346,346,Germantown,"$675,000",4 beds,3 baths,"3,291 ",https://www.redfin.com/WI/Germantown/W127N10865-Coneflower-Cir-53022/home/89675687,"W127N10865 Coneflower Cir, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+347,347,Germantown,"$448,000",3 beds,2 baths,"1,760 ",https://www.redfin.com/WI/Germantown/W143N9783-Ridgewood-Ln-53022/home/89681805,"W143N9783 Ridgewood Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+348,348,Germantown,"$659,900",3 beds,2 baths,"2,191 ",https://www.redfin.com/WI/Germantown/W168N10102-Bittersweet-Trl-53022/home/187471672,"W168N10102 Bittersweet Trl, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+349,349,Germantown,"$634,900",3 beds,2.5 baths,"2,268 ",https://www.redfin.com/WI/Germantown/N101W17154-Tanglewood-Dr-53022/home/186230569,"N101W17154 Tanglewood Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+350,350,Germantown,"$549,000",5 beds,2.5 baths,"3,150 ",https://www.redfin.com/WI/Germantown/N116W12831-Elm-Ln-53022/home/89655638,"N116W12831 Elm Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+351,351,Germantown,"$379,900",3 beds,3.5 baths,"3,292 ",https://www.redfin.com/WI/Germantown/N115W16628-Royal-Ct-53022/home/191336225,"N115W16628 Royal Ct, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+352,352,Germantown,"$639,900",3 beds,2 baths,"1,926 ",https://www.redfin.com/WI/Germantown/N119W15005-Ivy-Ln-53022/home/185154623,"N119W15005 Ivy Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+353,353,Germantown,"$588,900",4 beds,2.5 baths,"2,490 ",https://www.redfin.com/WI/Germantown/Germantown/Prescott/home/190915830,"Prescott Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+354,354,Germantown,"$699,900",3 beds,2.5 baths,"2,226 ",https://www.redfin.com/WI/Germantown/N101W16861-Tanglewood-Dr-53022/home/190881896,"N101W16861 Tanglewood Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+355,355,Germantown,"$559,900",3 beds,2.5 baths,"1,820 ",https://www.redfin.com/WI/Germantown/N101W17128-Tanglewood-Dr-53022/home/190809219,"N101W17128 Tanglewood Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+356,356,Germantown,"$789,900",3 beds,2.5 baths,"2,200 ",https://www.redfin.com/WI/Germantown/N111W12543-Strawgrass-Ln-53022/home/170571301,"N111W12543 Strawgrass Ln, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+357,357,Germantown,"$709,999",4 beds,2.5 baths,"2,440 ",https://www.redfin.com/WI/Germantown/W148N10450-Blackbird-Pt-53022/home/184792288,"W148N10450 Blackbird Pt, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+358,358,Germantown,"$399,900",2 beds,2 baths,"1,447 ",https://www.redfin.com/WI/Germantown/W140N9978-Seven-Pines-Way-53022/unit-A/home/190720024,"W140N9978 Seven Pines Way Unit A, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+359,359,Germantown,"$674,900",3 beds,3.5 baths,"3,897 ",https://www.redfin.com/WI/Germantown/N99W14713-Amber-Dr-53022/home/57697007,"N99W14713 Amber Dr, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+360,360,Germantown,"$546,900",4 beds,2 baths,"1,692 ",https://www.redfin.com/WI/Germantown/Germantown/Neenah/home/190402456,"Neenah Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+361,361,Germantown,"$654,900",3 beds,2.5 baths,"2,226 ",https://www.redfin.com/WI/Germantown/Germantown/Celina/home/190402453,"Celina Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+362,362,Germantown,"$646,900",3 beds,2.5 baths,"2,268 ",https://www.redfin.com/WI/Germantown/Germantown/Monona/home/190402447,"Monona Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+363,363,Germantown,"$520,900",3 beds,2.5 baths,"1,820 ",https://www.redfin.com/WI/Germantown/Germantown/Delavan/home/190402446,"Delavan Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+364,364,Germantown,"$660,900",4 beds,2.5 baths,"2,656 ",https://www.redfin.com/WI/Germantown/Germantown/Aubrey/home/190402442,"Aubrey Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+365,365,Germantown,"$680,900",3 beds,3.5 baths,"2,226 ",https://www.redfin.com/WI/Germantown/Germantown/Elsa/home/190402440,"Elsa Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+366,366,Germantown,"$642,900",3 beds,2 baths,"2,191 ",https://www.redfin.com/WI/Germantown/Germantown/Charlotte/home/190402439,"Charlotte Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+367,367,Germantown,"$657,900",4 beds,2.5 baths,"2,643 ",https://www.redfin.com/WI/Germantown/Germantown/Isabella/home/190402427,"Isabella Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+368,368,Germantown,"$521,900",3 beds,2 baths,"1,580 ",https://www.redfin.com/WI/Germantown/Germantown/Madison/home/190402425,"Madison Plan, Germantown, WI 53022",1,0,2024-07-19-17-01-40
+369,369,Unknown,"$525,000",3 beds,2.5 baths,"1,600 ",https://www.redfin.com/WI/Unknown/9378-S-Alder-Pl-Unknown/unit-103/home/191200752,"9378 S Alder Pl #103, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+370,370,Unknown,"$540,000",3 beds,2 baths,"1,614 ",https://www.redfin.com/WI/Unknown/4199-E-Hemlock-Dr-Unknown/unit-201/home/191200745,"4199 E Hemlock Dr #201, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+371,371,Oak Creek,"$485,000",3 beds,2.5 baths,"1,644 ",https://www.redfin.com/WI/Oak-Creek/4163-E-Hemlock-Dr-53154/unit-103/home/189675118,"4163 E Hemlock Dr #103, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+372,372,Oak Creek,"$749,700",3 beds,2.5 baths,"1,996 ",https://www.redfin.com/WI/Oak-Creek/4218-Lake-Vista-Blvd-53154/home/186099102,"4218 E Lake Vista Blvd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+373,373,Oak Creek,"$489,900",4 beds,2 baths,"2,213 ",https://www.redfin.com/WI/Oak-Creek/598-E-Pheasant-Run-53154/home/90266689,"598 E Pheasant Run, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+374,374,Oak Creek,"$340,000",3 beds,2 baths,"1,532 ",https://www.redfin.com/WI/Oak-Creek/10321-S-Nicholson-Rd-53154/home/90299023,"10321 S Nicholson Rd, Milwaukee, WI 53214",1,0,2024-07-19-17-01-40
+375,375,Oak Creek,"$309,900",3 beds,2 baths,"1,956 ",https://www.redfin.com/WI/Oak-Creek/2429-W-Rawson-Ave-53154/home/57997312,"2429 W Rawson Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+376,376,Oak Creek,"$725,000",4 beds,3.5 baths,"4,225 ",https://www.redfin.com/WI/Oak-Creek/10440-S-Nicholson-Rd-53154/home/90267586,"10440 S Nicholson Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+377,377,Oak Creek,"$354,800",3 beds,2 baths,"1,491 ",https://www.redfin.com/WI/Oak-Creek/2445-W-Sycamore-Ave-53154/home/90330052,"2445 W Sycamore Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+378,378,Oak Creek,"$450,000",2 beds,2 baths,"1,348 ",https://www.redfin.com/WI/Oak-Creek/4163-E-Hemlock-Dr-53154/unit-101/home/189666875,"4163 E Hemlock Dr #101, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+379,379,Oak Creek,"$560,000",4 beds,2 baths,"1,991 ",https://www.redfin.com/WI/Oak-Creek/3268-E-Ryan-Rd-53154/home/90266256,"3268 E Ryan Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+380,380,Oak Creek,"$449,900",3 beds,2.5 baths,"1,961 ",https://www.redfin.com/WI/Oak-Creek/10434-S-Katie-Dr-53154/home/90267296,"10434 S Katie Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+381,381,Oak Creek,"$435,000",3 beds,2.5 baths,"1,810 ",https://www.redfin.com/WI/Oak-Creek/9865-S-Shepard-Ave-53154/home/90331119,"9865 S Shepard Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+382,382,Oak Creek,"$1,200,000",No Data Available,No Data Available,7.00 ,https://www.redfin.com/WI/Oak-Creek/9341-S-Howell-Ave-53154/home/67278037,"9341 S Howell Ave, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+383,383,Oak Creek,"$182,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt14-Edgemont-DR-53154/home/191463539,"Lt14 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+384,384,Oak Creek,"$181,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt13-Edgemont-DR-53154/home/191463533,"Lt13 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+385,385,Oak Creek,"$180,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt11-Edgemont-DR-53154/home/191463523,"Lt11 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+386,386,Oak Creek,"$180,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt12-Edgemont-DR-53154/home/191463522,"Lt12 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+387,387,Oak Creek,"$183,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt8-Edgemont-DR-53154/home/191463506,"Lt8 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+388,388,Oak Creek,"$173,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt6-Edgemont-DR-53154/home/191463491,"Lt6 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+389,389,Oak Creek,"$172,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt5-Edgemont-DR-53154/home/191463487,"Lt5 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+390,390,Oak Creek,"$171,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt4-Edgemont-DR-53154/home/191463482,"Lt4 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+391,391,Oak Creek,"$170,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt3-Edgemont-DR-53154/home/191463431,"Lt3 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+392,392,Oak Creek,"$169,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt2-Edgemont-DR-53154/home/191463417,"Lt2 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+393,393,Oak Creek,"$159,900",No Data Available,No Data Available,0.30 ,https://www.redfin.com/WI/Oak-Creek/Lt1-Edgemont-DR-53154/home/191463378,"Lt1 Edgemont Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+394,394,Oak Creek,"$83,000",No Data Available,No Data Available,1.28 ,https://www.redfin.com/WI/Oak-Creek/7750-S-13th-St-53154/home/58089513,"7750 S 13th St, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+395,395,Oak Creek,"$149,900",No Data Available,No Data Available,0.69 ,https://www.redfin.com/WI/Oak-Creek/10568-S-Alton-Rd-53154/home/90299530,"10568 S Alton Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+396,396,Oak Creek,"$124,900",No Data Available,No Data Available,0.63 ,https://www.redfin.com/WI/Oak-Creek/Lt4-S-13th-St-53154/home/190955960,"Lt4 S 13th St, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+397,397,Oak Creek,"$124,900",No Data Available,No Data Available,0.63 ,https://www.redfin.com/WI/Oak-Creek/Lt3-S-13th-St-53154/home/190955956,"Lt3 S 13th St, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+398,398,Oak Creek,"$289,770",No Data Available,No Data Available,3.11 ,https://www.redfin.com/WI/Oak-Creek/640-E-Darcy-Dr-53154/home/90265748,"640 E Darcy Dr, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+399,399,Oak Creek,"$130,000",No Data Available,No Data Available,0.92 ,https://www.redfin.com/WI/Oak-Creek/3660-E-Fitzsimmons-Rd-53154/home/90298848,"3660 E Fitzsimmons Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+400,400,Oak Creek,"$759,900",No Data Available,No Data Available,4.02 ,https://www.redfin.com/WI/Oak-Creek/170-W-Ryan-Rd-53154/home/58103739,"170 W Ryan Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+401,401,Oak Creek,"$129,000",No Data Available,No Data Available,0.75 ,https://www.redfin.com/WI/Oak-Creek/3520-E-Fitzsimmons-Rd-53154/home/90298453,"3520 E Fitzsimmons Rd, Oak Creek, WI 53154",1,0,2024-07-19-17-01-40
+402,402,Milwaukee,"$295,900",3 beds,1 bath,"1,775 ",https://www.redfin.com/WI/Milwaukee/3750-S-21st-St-53221/home/90245910,"3750 S 21st St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+403,403,Milwaukee,"$325,000",3 beds,2 baths,"1,651 ",https://www.redfin.com/WI/Milwaukee/3205-W-Grange-Ave-53221/home/90294972,"3205 W Grange Ave, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+404,404,Milwaukee,"$295,900",3 beds,1.5 baths,"1,853 ",https://www.redfin.com/WI/Milwaukee/5643-S-25th-St-53221/home/90382114,"5643 S 25th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+405,405,Milwaukee,"$379,900",6 beds,2 baths,"2,374 ",https://www.redfin.com/WI/Milwaukee/1711-W-Bolivar-Ave-53221/unit-1713/home/177381801,"1711 W Bolivar Ave #1713, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+406,406,Milwaukee,"$299,900",4 beds,2 baths,"1,851 ",https://www.redfin.com/WI/Milwaukee/5376-S-25th-St-53221/home/87811433,"5376 S 25th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+407,407,Milwaukee,"$215,000",4 beds,1 bath,928 ,https://www.redfin.com/WI/Milwaukee/3413-W-Ramsey-Ave-53221/home/57872057,"3413 W Ramsey Ave, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+408,408,Milwaukee,"$349,900",3 beds,1.5 baths,"1,957 ",https://www.redfin.com/WI/Milwaukee/1701-W-Clayton-Crest-Ave-53221/home/57958545,"1701 W Clayton Crest Ave, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+409,409,Milwaukee,"$169,900",2 beds,1.5 baths,"1,616 ",https://www.redfin.com/WI/Milwaukee/6360-S-20th-St-53221/home/90252338,"6360 S 20th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+410,410,Milwaukee,"$475,000",4 beds,2.5 baths,"2,210 ",https://www.redfin.com/WI/Milwaukee/3810-S-Cherokee-Way-53221/home/57980019,"3810 S Cherokee Way, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+411,411,Milwaukee,"$249,900",3 beds,1.5 baths,"1,310 ",https://www.redfin.com/WI/Milwaukee/3628-S-20th-St-53221/home/57760316,"3628 S 20th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+412,412,Milwaukee,"$244,500",2 beds,2 baths,"1,454 ",https://www.redfin.com/WI/Milwaukee/3518-S-Toldt-Cir-53221/home/58033068,"3518 S Toldt Cir, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+413,413,Milwaukee,"$329,900",4 beds,2 baths,"1,815 ",https://www.redfin.com/WI/Milwaukee/4654-S-14th-St-53221/home/90381241,"4654 S 14th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+414,414,Milwaukee,"$290,000",3 beds,2 baths,"1,841 ",https://www.redfin.com/WI/Milwaukee/2501-W-Henry-Ave-53221/home/57984232,"2501 W Henry Ave, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+415,415,Milwaukee,"$189,900",2 beds,1 bath,940 ,https://www.redfin.com/WI/Milwaukee/4173-S-14th-St-53221/home/90248502,"4173 S 14th St, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+416,416,Greenfield,"$576,900",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4876-S-34th-St-53221/unit-9/home/189083237,"4876 S 34th St Lot 9, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+417,417,Greenfield,"$594,120",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4862-S-34th-St-53221/unit-8/home/189083094,"4862 S 34th St Lot 8, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+418,418,Greenfield,"$666,632",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4848-S-34th-St-53221/unit-7/home/189082753,"4848 S 34th St Lot 7, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+419,419,Greenfield,"$622,990",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4849-S-34th-St-53221/unit-6/home/189082597,"4849 S 34th St Lot 6, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+420,420,Greenfield,"$588,697",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4867-S-34th-St-53221/unit-5/home/189082358,"4867 S 34th St Lot 5, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+421,421,Greenfield,"$578,265",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4875-S-34th-St-53221/unit-4/home/189082262,"4875 S 34th St Lot 4, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+422,422,Greenfield,"$556,375",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4862-S-35th-St-53221/unit-2/home/189081821,"4862 S 35th St Lot 2, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+423,423,Greenfield,"$555,000",4 beds,2.5 baths,"2,342 ",https://www.redfin.com/WI/Greenfield/4876-S-35th-St-53221/unit-1/home/189072521,"4876 S 35th St Lot 1, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+424,424,Greenfield,"$419,900",3 beds,2 baths,"1,528 ",https://www.redfin.com/WI/Greenfield/3914-W-Plainfield-Ave-53221/home/183356155,"3914 W Plainfield Ave, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+425,425,Greenfield,"$424,900",3 beds,2 baths,"1,548 ",https://www.redfin.com/WI/Greenfield/3922-W-Plainfield-Ave-53221/home/183356772,"3922 W Plainfield Ave, Greenfield, WI 53221",1,0,2024-07-19-17-01-40
+426,426,Milwaukee,"$269,900",3 beds,1.5 baths,"1,375 ",https://www.redfin.com/WI/Milwaukee/4410-S-45th-St-53220/home/90320042,"4410 S 45th St, Greenfield, WI 53220",1,0,2024-07-19-17-01-40
+427,427,Milwaukee,"$640,000",4 beds,3 baths,"4,149 ",https://www.redfin.com/WI/Milwaukee/4955-S-43rd-St-53220/home/90329309,"4955 S 43rd St, Greenfield, WI 53220",1,0,2024-07-19-17-01-40
+428,428,Milwaukee,"$274,900",3 beds,1.5 baths,"1,527 ",https://www.redfin.com/WI/Milwaukee/7810-W-Warnimont-Ave-53220/home/90379758,"7810 W Warnimont Ave, Milwaukee, WI 53220",1,0,2024-07-19-17-01-40
+429,429,Milwaukee,"$309,000",3 beds,2 baths,"1,741 ",https://www.redfin.com/WI/Milwaukee/4889-W-Maple-Leaf-Cir-53220/home/90328777,"4889 W Maple Leaf Cir, Greenfield, WI 53220",1,0,2024-07-19-17-01-40
+430,430,Milwaukee,"$169,900",2 beds,1.5 baths,"1,271 ",https://www.redfin.com/WI/Milwaukee/4910-W-Colonial-Ct-53220/home/90328474,"4910 W Colonial Ct, Greenfield, WI 53220",1,0,2024-07-19-17-01-40
+431,431,Milwaukee,"$355,000",3 beds,2 baths,"1,649 ",https://www.redfin.com/WI/Milwaukee/4400-S-50th-St-53220/home/57814285,"4400 S 50th St, Greenfield, WI 53220",1,0,2024-07-19-17-01-40
+432,432,Milwaukee,"$74,400",No Data Available,No Data Available,"5,227 ",https://www.redfin.com/WI/Milwaukee/4225-W-Willow-Way-53221/home/58080504,"4225 W Willow Way, Milwaukee, WI 53221",1,0,2024-07-19-17-01-40
+433,433,Milwaukee,"$349,900",3 beds,2 baths,"1,527 ",https://www.redfin.com/WI/Milwaukee/3253-S-83rd-St-53219/home/90376504,"3253 S 83rd St, Milwaukee, WI 53219",1,0,2024-07-19-17-01-40
+434,434,Greendale,"$297,000",3 beds,1.5 baths,"1,382 ",https://www.redfin.com/WI/Greendale/5598-Angle-Ln-53129/home/57952129,"5598 Angle Ln, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+435,435,Greendale,"$415,000",4 beds,2 baths,"1,469 ",https://www.redfin.com/WI/Greendale/5836-Oxford-Dr-53129/home/58663310,"5836 Oxford Dr, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+436,436,Milwaukee,"$299,900",3 beds,2 baths,"1,114 ",https://www.redfin.com/WI/Milwaukee/3329-S-79th-St-53219/home/90241070,"3329 S 79th St, Milwaukee, WI 53219",1,0,2024-07-19-17-01-40
+437,437,Milwaukee,"$245,000",3 beds,1 bath,864 ,https://www.redfin.com/WI/Milwaukee/3462-S-63rd-St-53219/home/90242267,"3462 S 63rd St, Milwaukee, WI 53219",1,0,2024-07-19-17-01-40
+438,438,Milwaukee,"$289,900",3 beds,2 baths,"1,860 ",https://www.redfin.com/WI/Milwaukee/3658-S-89th-St-53228/home/90380076,"3658 S 89th St, Milwaukee, WI 53228",1,0,2024-07-19-17-01-40
+439,439,Milwaukee,"$200,000",2 beds,2 baths,"1,048 ",https://www.redfin.com/WI/Milwaukee/3239-S-58th-St-53219/unit-102/home/191618891,"3239 S 58th St #102, Milwaukee, WI 53219",1,0,2024-07-19-17-01-40
+440,440,Greendale,"$389,900",3 beds,1.5 baths,"2,047 ",https://www.redfin.com/WI/Greendale/5364-Orchard-Ln-53129/home/90261375,"5364 Orchard Ln, Milwaukee, WI 53219",1,0,2024-07-19-17-01-40
+441,441,Greendale,"$349,900",3 beds,3 baths,"1,854 ",https://www.redfin.com/WI/Greendale/7313-Edgemont-Ave-53129/home/90261066,"7313 Edgemont Ave, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+442,442,Milwaukee,"$149,900",2 beds,1.5 baths,898 ,https://www.redfin.com/WI/Milwaukee/8535-W-Waterford-Ave-53228/unit-3/home/90292483,"8535 W Waterford Ave #3, Greenfield, WI 53228",1,0,2024-07-19-17-01-40
+443,443,Milwaukee,"$334,900",5 beds,2 baths,"2,221 ",https://www.redfin.com/WI/Milwaukee/3605-W-Ohio-Ave-53215/home/58058227,"3605 W Ohio Ave, Milwaukee, WI 53215",1,0,2024-07-19-17-01-40
+444,444,Milwaukee,"$190,000",No Data Available,No Data Available,0.81 ,https://www.redfin.com/WI/Milwaukee/3125-S-84th-St-53227/home/167904177,"3125 S 84th St, Milwaukee, WI 53227",1,0,2024-07-19-17-01-40
+445,445,Cudahy,"$459,900",No Data Available,No Data Available,"3,123 ",https://www.redfin.com/WI/Cudahy/3815-E-Layton-Ave-53110/home/90282005,"3815 E Layton Ave, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+446,446,Cudahy,"$279,900",3 beds,1 bath,"1,170 ",https://www.redfin.com/WI/Cudahy/5572-S-Kirkwood-Ave-53110/home/90283736,"5572 S Kirkwood Ave, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+447,447,Cudahy,"$158,000",3 beds,1 bath,"1,159 ",https://www.redfin.com/WI/Cudahy/3316-E-Whittaker-Ave-53110/home/90281796,"3316 E Whittaker Ave, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+448,448,Cudahy,"$295,000",3 beds,1 bath,"1,100 ",https://www.redfin.com/WI/Cudahy/5320-S-Nicholson-Ave-53110/home/90282593,"5320 S Nicholson Ave, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+449,449,Cudahy,"$439,000",No Data Available,No Data Available,"3,500 ",https://www.redfin.com/WI/Cudahy/3863-E-Barnard-Ave-53110/unit-3869/home/172014257,"3863 E Barnard Ave #3869, Cudahy, WI 53110",1,0,2024-07-19-17-01-40
+450,450,Saint Francis,"$280,000",1 bed,1 bath,945 ,https://www.redfin.com/WI/Saint-Francis/4130-S-Lake-Dr-53235/unit-278/home/58019423,"4130 S Lake Dr #278, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+451,451,Saint Francis,"$375,000",1 bed,1 bath,"1,225 ",https://www.redfin.com/WI/Saint-Francis/4130-S-Lake-Dr-53235/unit-170/home/58051265,"4130 S Lake Dr #170, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+452,452,Saint Francis,"$304,900",3 beds,1 bath,"1,040 ",https://www.redfin.com/WI/Saint-Francis/2717-E-Bottsford-Ave-53235/home/58010470,"2717 E Bottsford Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+453,453,Saint Francis,"$339,900",1 bed,1 bath,"1,225 ",https://www.redfin.com/WI/Saint-Francis/4110-S-Lake-Dr-53235/unit-130/home/58034724,"4110 S Lake Dr #130, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+454,454,St Francis,"$429,900",4 beds,2.5 baths,"3,000 ",https://www.redfin.com/WI/St-Francis/4464-S-Whitnall-Ave-53235/home/90268410,"4464 S Whitnall Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+455,455,St Francis,"$44,700",No Data Available,No Data Available,"8,712 ",https://www.redfin.com/WI/St-Francis/1921-E-Bolivar-Ave-53235/home/187450584,"1921 E Bolivar Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+456,456,Saint Francis,"$375,000",3 beds,2.5 baths,"2,128 ",https://www.redfin.com/WI/Saint-Francis/3760-S-Vermont-Ave-53235/home/57750439,"3760 S Vermont Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+457,457,Saint Francis,"$369,900",4 beds,3 baths,"2,278 ",https://www.redfin.com/WI/Saint-Francis/3700-S-Rutland-Ave-53235/home/90300257,"3700 S Rutland Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+458,458,Saint Francis,"$38,000",No Data Available,No Data Available,"4,356 ",https://www.redfin.com/WI/Saint-Francis/1900-E-Van-Beck-Ave-53235/home/57686021,"1900 E Van Beck Ave, Saint Francis, WI 53235",1,0,2024-07-19-17-01-40
+459,459,Greendale,"$499,000",4 beds,2.5 baths,"2,650 ",https://www.redfin.com/WI/Greendale/9003-Glenwood-Dr-53129/home/90321491,"9003 Glenwood Dr, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+460,460,Greendale,"$349,900",4 beds,1.5 baths,"1,760 ",https://www.redfin.com/WI/Greendale/6340-Root-River-Dr-53129/home/90291216,"6340 Root River Dr, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+461,461,Greendale,"$579,900",4 beds,2.5 baths,"3,000 ",https://www.redfin.com/WI/Greendale/9029-Greenacre-Ct-53129/home/90291508,"9029 Greenacre Ct, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+462,462,Greendale,"$299,900",2 beds,2 baths,"1,537 ",https://www.redfin.com/WI/Greendale/8983-Woodbridge-Dr-53129/home/90261301,"8983 Woodbridge Dr, Greendale, WI 53129",1,0,2024-07-19-17-01-40
+463,463,Franklin,"$350,000",3 beds,1.5 baths,"1,251 ",https://www.redfin.com/WI/Franklin/4241-W-Rawson-Ave-53132/home/90284983,"4241 W Rawson Ave, Franklin, WI 53132",1,0,2024-07-19-17-01-40
+464,464,Milwaukee,"$335,000",3 beds,1 bath,"1,363 ",https://www.redfin.com/WI/Milwaukee/5090-S-92nd-St-53228/home/57924854,"5090 S 92nd St, Greenfield, WI 53228",1,0,2024-07-19-17-01-40
+465,465,New Berlin,"$299,900",2 beds,2 baths,"1,250 ",https://www.redfin.com/WI/New-Berlin/4575-S-124th-St-53151/unit-4575/home/191739978,"4575 S 124th St #4575, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+466,466,New Berlin,"$446,000",4 beds,2.5 baths,"2,494 ",https://www.redfin.com/WI/New-Berlin/14200-W-Park-Ave-53151/home/57729872,"14200 W Park Ave, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+467,467,New Berlin,"$475,000",3 beds,2.5 baths,"2,563 ",https://www.redfin.com/WI/New-Berlin/2770-S-Franklin-Dr-53151/home/58010263,"2770 S Franklin Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+468,468,New Berlin,"$524,900",4 beds,2.5 baths,"3,210 ",https://www.redfin.com/WI/New-Berlin/16460-W-Melody-Ct-53151/home/103744945,"16460 W Melody Ct, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+469,469,New Berlin,"$450,000",4 beds,2.5 baths,"2,566 ",https://www.redfin.com/WI/New-Berlin/14755-W-Mayflower-Dr-53151/home/57733532,"14755 W Mayflower Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+470,470,New Berlin,"$649,900",3 beds,2.5 baths,"3,020 ",https://www.redfin.com/WI/New-Berlin/12715-W-North-Ln-53151/home/90004217,"12715 W North Ln, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+471,471,New Berlin,"$629,900",3 beds,2.5 baths,"3,319 ",https://www.redfin.com/WI/New-Berlin/13310-Crestwood-Ct-53151/home/57861612,"13310 Crestwood Ct, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+472,472,New Berlin,"$460,000",4 beds,2 baths,"2,515 ",https://www.redfin.com/WI/New-Berlin/15730-W-Pleasant-Dr-53151/home/90005433,"15730 W Pleasant Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+473,473,New Berlin,"$239,000",3 beds,1 bath,"1,124 ",https://www.redfin.com/WI/New-Berlin/1621-S-Woodside-Dr-53151/home/90002194,"1621 S Woodside Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+474,474,New Berlin,"$419,900",4 beds,1.5 baths,"1,955 ",https://www.redfin.com/WI/New-Berlin/4425-S-Dora-Ln-53151/home/90005746,"4425 S Dora Ln, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+475,475,New Berlin,"$349,900",3 beds,1 bath,"1,440 ",https://www.redfin.com/WI/New-Berlin/1700-S-171st-St-53151/home/90002496,"1700 S 171st St, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+476,476,New Berlin,"$625,000",4 beds,3 baths,"3,306 ",https://www.redfin.com/WI/New-Berlin/12685-W-Greenbriar-Ln-53151/home/90027296,"12685 W Greenbriar Ln, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+477,477,New Berlin,"$399,000",3 beds,1 bath,"1,476 ",https://www.redfin.com/WI/New-Berlin/16200-W-National-Ave-53151/home/182506806,"16200 W National Ave, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+478,478,New Berlin,"$799,900",4 beds,2.5 baths,"3,206 ",https://www.redfin.com/WI/New-Berlin/13075-W-Longleaf-Dr-53151/home/90031331,"13075 W Longleaf Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+479,479,New Berlin,"$525,000",3 beds,3 baths,"2,572 ",https://www.redfin.com/WI/New-Berlin/14359-W-Farrell-Dr-53151/home/103728306,"14359 W Farrell Dr, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+480,480,New Berlin,"$249,900",No Data Available,No Data Available,0.32 ,https://www.redfin.com/WI/New-Berlin/12860-W-National-Ave-53151/home/191413737,"12860 W National Ave, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+481,481,New Berlin,"$195,000",No Data Available,No Data Available,0.78 ,https://www.redfin.com/WI/New-Berlin/3875-S-Moorland-Rd-53151/home/180651505,"3875 S Moorland Rd, New Berlin, WI 51351",1,0,2024-07-19-17-01-40
+482,482,New Berlin,"$299,000",No Data Available,No Data Available,0.84 ,https://www.redfin.com/WI/New-Berlin/Lt8-Autumn-Trace-CT-53151/home/189835039,"Lt8 Autumn Trace Ct, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+483,483,New Berlin,"$234,900",No Data Available,No Data Available,0.75 ,https://www.redfin.com/WI/New-Berlin/Lt-2-Autumn-TRCE-53151/home/189721649,"Lt2 Autumn Trce, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+484,484,New Berlin,"$254,900",No Data Available,No Data Available,0.75 ,https://www.redfin.com/WI/New-Berlin/Lt5-Autumn-Trace-CT-53151/home/189691803,"Lt5 Autumn Trace Ct, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+485,485,New Berlin,"$274,900",No Data Available,No Data Available,0.80 ,https://www.redfin.com/WI/New-Berlin/Lt16-Autumn-Trace-CT-53151/unit-16/home/189396278,"Lt16 Autumn Trace Ct Lot 16, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+486,486,New Berlin,"$234,900",No Data Available,No Data Available,0.75 ,https://www.redfin.com/WI/New-Berlin/Lt20-Autumn-TRCE-53151/home/188133020,"Lt20 Autumn Trce, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+487,487,New Berlin,"$115,000",No Data Available,No Data Available,0.23 ,https://www.redfin.com/WI/New-Berlin/1414-S-166th-St-53151/home/188117446,"1414 S 166th St, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+488,488,New Berlin,"$250,000",No Data Available,No Data Available,0.85 ,https://www.redfin.com/WI/New-Berlin/2800-S-Moorland-Rd-53151/home/58080214,"2800 S Moorland Rd, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
+489,489,New Berlin,"$275,000",No Data Available,No Data Available,0.85 ,https://www.redfin.com/WI/New-Berlin/2786-S-Moorland-Rd-53151/home/58080228,"2786 S Moorland Rd, New Berlin, WI 53151",1,0,2024-07-19-17-01-40
